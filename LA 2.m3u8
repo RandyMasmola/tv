@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,LA 2
+http://192.168.0.12:8001/1:0:1:7474:3F0:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
