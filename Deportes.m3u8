@@ -1,0 +1,62 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="30001" tvg-logo="http://10.243.223.211/picon/1_0_19_7531_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7531:426:1:C00000:0:0:0:" tvg-name="DAZN F1 HD",DAZN F1 HD
+#EXTVLCOPT:program=30001
+http://10.243.223.211:8001/1:0:19:7531:426:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30805" tvg-logo="http://10.243.223.211/picon/1_0_19_7855_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7855:41A:1:C00000:0:0:0:" tvg-name="DAZN 1 HD",DAZN 1 HD
+#EXTVLCOPT:program=30805
+http://10.243.223.211:8001/1:0:19:7855:41A:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30815" tvg-logo="http://10.243.223.211/picon/1_0_19_785F_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:785F:41A:1:C00000:0:0:0:" tvg-name="DAZN 2 HD",DAZN 2 HD
+#EXTVLCOPT:program=30815
+http://10.243.223.211:8001/1:0:19:785F:41A:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30758" tvg-logo="http://10.243.223.211/picon/1_0_19_7826_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7826:428:1:C00000:0:0:0:" tvg-name="EUROSPORT1HD",EUROSPORT1HD
+#EXTVLCOPT:program=30758
+http://10.243.223.211:8001/1:0:19:7826:428:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29863" tvg-logo="http://10.243.223.211/picon/1_0_1_74A7_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A7:41C:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
+#EXTVLCOPT:program=29863
+http://10.243.223.211:8001/1:0:1:74A7:41C:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29859" tvg-logo="http://10.243.223.211/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A3:41C:1:C00000:0:0:0:" tvg-name="GOL",GOL
+#EXTVLCOPT:program=29859
+http://10.243.223.211:8001/1:0:1:74A3:41C:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30412" tvg-logo="http://10.243.223.211/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CC:40E:1:C00000:0:0:0:" tvg-name="TELEDEPORTE",TELEDEPORTE
+#EXTVLCOPT:program=30412
+http://10.243.223.211:8001/1:0:1:76CC:40E:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29960" tvg-logo="http://10.243.223.211/picon/1_0_19_7508_420_1_C00000_0_0_0.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="#VAMOSHD",#VAMOSHD
+#EXTVLCOPT:program=29960
+http://10.243.223.211:8001/1:0:19:7508:420:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29967" tvg-logo="http://10.243.223.211/picon/1_0_19_750F_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M. LaLiga HD",M. LaLiga HD
+#EXTVLCOPT:program=29967
+http://10.243.223.211:8001/1:0:19:750F:420:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30803" tvg-logo="http://10.243.223.211/picon/1_0_19_7853_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7853:41A:1:C00000:0:0:0:" tvg-name="M. LaLiga 1 HD",M. LaLiga 1 HD
+#EXTVLCOPT:program=30803
+http://10.243.223.211:8001/1:0:19:7853:41A:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29901" tvg-logo="http://10.243.223.211/picon/1_0_19_74CD_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74CD:3F8:1:C00000:0:0:0:" tvg-name="M. LaLiga 2 HD",M. LaLiga 2 HD
+#EXTVLCOPT:program=29901
+http://10.243.223.211:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29907" tvg-logo="http://10.243.223.211/picon/1_0_19_74D3_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D3:3F8:1:C00000:0:0:0:" tvg-name="M. LaLiga 3 HD",M. LaLiga 3 HD
+#EXTVLCOPT:program=29907
+http://10.243.223.211:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30900" tvg-logo="http://10.243.223.211/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B4:3EC:1:C00000:0:0:0:" tvg-name="M.LCAMPEONES",M.LCAMPEONES
+#EXTVLCOPT:program=30900
+http://10.243.223.211:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29909" tvg-logo="http://10.243.223.211/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D5:3F8:1:C00000:0:0:0:" tvg-name="M.LCAMPEON1",M.LCAMPEON1
+#EXTVLCOPT:program=29909
+http://10.243.223.211:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="29915" tvg-logo="http://10.243.223.211/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74DB:3F8:1:C00000:0:0:0:" tvg-name="M.LCAMPEON2",M.LCAMPEON2
+#EXTVLCOPT:program=29915
+http://10.243.223.211:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30760" tvg-logo="http://10.243.223.211/picon/1_0_19_7828_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7828:428:1:C00000:0:0:0:" tvg-name="M. DEPORTESHD",M. DEPORTESHD
+#EXTVLCOPT:program=30760
+http://10.243.223.211:8001/1:0:19:7828:428:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30002" tvg-logo="http://10.243.223.211/picon/1_0_19_7532_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7532:426:1:C00000:0:0:0:" tvg-name="M. DEPORTES1HD",M. DEPORTES1HD
+#EXTVLCOPT:program=30002
+http://10.243.223.211:8001/1:0:19:7532:426:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30658" tvg-logo="http://10.243.223.211/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C2:40A:1:C00000:0:0:0:" tvg-name="M. DEPORTES2",M. DEPORTES2
+#EXTVLCOPT:program=30658
+http://10.243.223.211:8001/1:0:1:77C2:40A:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30655" tvg-logo="http://10.243.223.211/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77BF:40A:1:C00000:0:0:0:" tvg-name="M. DEPORTES3",M. DEPORTES3
+#EXTVLCOPT:program=30655
+http://10.243.223.211:8001/1:0:1:77BF:40A:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-chno="30903" tvg-logo="http://10.243.223.211/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B7:3EC:1:C00000:0:0:0:" tvg-name="M. GOLF HD",M. GOLF HD
+#EXTVLCOPT:program=30903
+http://10.243.223.211:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
