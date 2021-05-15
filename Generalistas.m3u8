@@ -1,7 +1,5 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
-https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="http://10.243.223.211/picon/1_0_19_7863_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
 http://10.243.223.211:8001/1:0:19:7863:41A:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="http://10.243.223.211/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7474:3F0:1:C00000:0:0:0:" tvg-name="LA 2",LA 2
