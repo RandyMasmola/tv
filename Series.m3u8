@@ -1,10 +1,8 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="http://10.243.223.211/picon/1_0_19_7882_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7882:414:1:C00000:0:0:0:" tvg-name="M. SERIES HD",M. SERIES HD
-#EXTVLCOPT:program=30850
 http://10.243.223.211:8001/1:0:19:7882:414:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
 #EXTINF:-1 tvg-id="M.Seriesmania HD" tvg-logo="http://10.243.223.211/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B6:3EC:1:C00000:0:0:0:" tvg-name="M.Seriesmania HD",M.Seriesmania HD
-#EXTVLCOPT:program=30902
 http://10.243.223.211:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:?bitrate=800000?width=1024?height=576?vcodec=h265?aspectratio=2?interlaced=0
 #EXTINF:-1 tvg-chno="29956" tvg-logo="http://10.243.223.211/picon/1_0_19_7504_420_1_C00000_0_0_0.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="FOX HD",FOX HD
 #EXTVLCOPT:program=29956
