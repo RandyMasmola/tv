@@ -1,602 +1,676 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7863_41A_1_C00000_0_0_0.png",LA 1 HD
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="30819" tvg-logo="http://192.168.0.12/picon/1_0_19_7863_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
-#EXTVLCOPT:program=30819
-http://192.168.0.12:8001/1:0:19:7863:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="La 2" tvg-logo="http://192.168.0.12/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7474:3F0:1:C00000:0:0:0:" tvg-name="LA 2",LA 2
-http://192.168.0.12:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7534_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7534:426:1:C00000:0:0:0:" tvg-name="ANTENA 3 HD",ANTENA 3 HD
-http://192.168.0.12:8001/1:0:19:7534:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7535_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7535:426:1:C00000:0:0:0:" tvg-name="CUATRO HD",CUATRO HD
-http://192.168.0.12:8001/1:0:19:7535:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7536_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7536:426:1:C00000:0:0:0:" tvg-name="TELECINCO HD",TELECINCO HD
-http://192.168.0.12:8001/1:0:19:7536:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7537_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7537:426:1:C00000:0:0:0:" tvg-name="LA SEXTA HD",LA SEXTA HD
-http://192.168.0.12:8001/1:0:19:7537:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="#0 HD" tvg-logo="http://192.168.0.12/picon/1_0_19_788C_414_1_C00000_0_0_0.png" tvg-id="1:0:19:788C:414:1:C00000:0:0:0:" tvg-name="#0 HD",#0 HD
-http://192.168.0.12:8001/1:0:19:788C:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="#VAMOSHD" tvg-logo="http://192.168.0.12/picon/1_0_19_750A_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750A:420:1:C00000:0:0:0:" tvg-name="#VAMOSHD",#VAMOSHD
-http://192.168.0.12:8001/1:0:19:750A:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-logo="http://192.168.0.12/picon/1_0_1_76A3_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:76A3:41E:1:C00000:0:0:0:" tvg-name="MULTIDEPORTE",MULTIDEPORTE
-http://192.168.0.12:8001/1:0:1:76A3:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BAJO DEMANDA" tvg-logo="http://192.168.0.12/picon/1_0_1_759E_422_1_C00000_0_0_0.png" tvg-id="1:0:1:759E:422:1:C00000:0:0:0:" tvg-name="BAJO DEMANDA",BAJO DEMANDA
-http://192.168.0.12:8001/1:0:1:759E:422:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7882_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7882:414:1:C00000:0:0:0:" tvg-name="M. SERIES HD",M. SERIES HD
-http://192.168.0.12:8001/1:0:19:7882:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Seriesmania HD" tvg-logo="http://192.168.0.12/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B6:3EC:1:C00000:0:0:0:" tvg-name="M.Seriesmania HD",M.Seriesmania HD
-http://192.168.0.12:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7504_420_1_C00000_0_0_0.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="FOX HD",FOX HD
-http://192.168.0.12:8001/1:0:19:7504:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7856_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7856:41A:1:C00000:0:0:0:" tvg-name="AXN HD",AXN HD
-http://192.168.0.12:8001/1:0:19:7856:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7888_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7888:414:1:C00000:0:0:0:" tvg-name="TNT HD",TNT HD
-http://192.168.0.12:8001/1:0:19:7888:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-logo="http://192.168.0.12/picon/1_0_19_78C0_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78C0:3EC:1:C00000:0:0:0:" tvg-name="COMEDYCENTRALHD",COMEDYCENTRALHD
-http://192.168.0.12:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7824_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7824:428:1:C00000:0:0:0:" tvg-name="CALLE 13 HD",CALLE 13 HD
-http://192.168.0.12:8001/1:0:19:7824:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="http://192.168.0.12/picon/1_0_19_78B8_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B8:3EC:1:C00000:0:0:0:" tvg-name="COSMO HD",COSMO HD
-http://192.168.0.12:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7533_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7533:426:1:C00000:0:0:0:" tvg-name="AMC HD",AMC HD
-http://192.168.0.12:8001/1:0:19:7533:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://192.168.0.12/picon/1_0_19_78B5_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B5:3EC:1:C00000:0:0:0:" tvg-name="FOX LIFE HD",FOX LIFE HD
-http://192.168.0.12:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="http://192.168.0.12/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78BE:3EC:1:C00000:0:0:0:" tvg-name="AXN WHITE HD",AXN WHITE HD
-http://192.168.0.12:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="http://192.168.0.12/picon/1_0_19_7825_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7825:428:1:C00000:0:0:0:" tvg-name="SYFY HD",SYFY HD
-http://192.168.0.12:8001/1:0:19:7825:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. Tolkien" tvg-logo="http://192.168.0.12/picon/1_0_1_749D_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749D:41C:1:C00000:0:0:0:" tvg-name="M. Tolkien",M. Tolkien
-http://192.168.0.12:8001/1:0:1:749D:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="http://192.168.0.12/picon/1_0_1_74A2_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A2:41C:1:C00000:0:0:0:" tvg-name="MTV ESPAÑA",MTV ESPAÑA
-http://192.168.0.12:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FDF" tvg-logo="http://192.168.0.12/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77BC:40A:1:C00000:0:0:0:" tvg-name="FDF",FDF
-http://192.168.0.12:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="ENERGY" tvg-logo="http://192.168.0.12/picon/1_0_1_7587_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7587:412:1:C00000:0:0:0:" tvg-name="NEOX",NEOX
-http://192.168.0.12:8001/1:0:1:7587:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NEOX" tvg-logo="http://192.168.0.12/picon/1_0_1_749F_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749F:41C:1:C00000:0:0:0:" tvg-name="ENERGY",ENERGY
-http://192.168.0.12:8001/1:0:1:749F:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.ESTRENOSHD" tvg-logo="http://192.168.0.12/picon/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7539:426:1:C00000:0:0:0:" tvg-name="M.ESTRENOSHD",M.ESTRENOSHD
-http://192.168.0.12:8001/1:0:19:7539:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30911" tvg-logo="http://192.168.0.12/picon/1_0_19_78BF_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78BF:3EC:1:C00000:0:0:0:" tvg-name="M.CineDoc&Roll",M.CineDoc&Roll
-#EXTVLCOPT:program=30911
-http://192.168.0.12:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30079" tvg-logo="http://192.168.0.12/picon/1_0_1_757F_412_1_C00000_0_0_0.png" tvg-id="1:0:1:757F:412:1:C00000:0:0:0:" tvg-name="Disney+",Disney+
-#EXTVLCOPT:program=30079
-http://192.168.0.12:8001/1:0:1:757F:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29961" tvg-logo="http://192.168.0.12/picon/1_0_19_7509_420_1_C00000_0_0_0.png" tvg-id="1:0:19:7509:420:1:C00000:0:0:0:" tvg-name="M. ACCIÓN HD",M. ACCIÓN HD
-#EXTVLCOPT:program=29961
-http://192.168.0.12:8001/1:0:19:7509:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30807" tvg-logo="http://192.168.0.12/picon/1_0_19_7857_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7857:41A:1:C00000:0:0:0:" tvg-name="M.COMEDIA HD",M.COMEDIA HD
-#EXTVLCOPT:program=30807
-http://192.168.0.12:8001/1:0:19:7857:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29963" tvg-logo="http://192.168.0.12/picon/1_0_19_750B_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750B:420:1:C00000:0:0:0:" tvg-name="M. DRAMA HD",M. DRAMA HD
-#EXTVLCOPT:program=29963
-http://192.168.0.12:8001/1:0:19:750B:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30518" tvg-logo="http://192.168.0.12/picon/1_0_1_7736_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7736:416:1:C00000:0:0:0:" tvg-name="M. Cine Español",M. Cine Español
-#EXTVLCOPT:program=30518
-http://192.168.0.12:8001/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30853" tvg-logo="http://192.168.0.12/picon/1_0_19_7885_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7885:414:1:C00000:0:0:0:" tvg-name="TCM HD",TCM HD
-#EXTVLCOPT:program=30853
-http://192.168.0.12:8001/1:0:19:7885:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29964" tvg-logo="http://192.168.0.12/picon/1_0_19_750C_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750C:420:1:C00000:0:0:0:" tvg-name="HOLLYWOODHD",HOLLYWOODHD
-#EXTVLCOPT:program=29964
-http://192.168.0.12:8001/1:0:19:750C:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30373" tvg-logo="http://192.168.0.12/picon/1_0_1_76A5_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:76A5:41E:1:C00000:0:0:0:" tvg-name="SUNDANCE TV",SUNDANCE TV
-#EXTVLCOPT:program=30373
-http://192.168.0.12:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30059" tvg-logo="http://192.168.0.12/picon/1_0_1_756B_412_1_C00000_0_0_0.png" tvg-id="1:0:1:756B:412:1:C00000:0:0:0:" tvg-name="PARAMOUNT",PARAMOUNT
-#EXTVLCOPT:program=30059
-http://192.168.0.12:8001/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30354" tvg-logo="http://192.168.0.12/picon/1_0_1_7692_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7692:41E:1:C00000:0:0:0:" tvg-name="MULTIDEPORTE",MULTIDEPORTE
-#EXTVLCOPT:program=30354
-http://192.168.0.12:8001/1:0:1:7692:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29960" tvg-logo="http://192.168.0.12/picon/1_0_19_7508_420_1_C00000_0_0_0.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="#VAMOSHD",#VAMOSHD
-#EXTVLCOPT:program=29960
-http://192.168.0.12:8001/1:0:19:7508:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29967" tvg-logo="http://192.168.0.12/picon/1_0_19_750F_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M. LaLiga HD",M. LaLiga HD
-#EXTVLCOPT:program=29967
-http://192.168.0.12:8001/1:0:19:750F:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30803" tvg-logo="http://192.168.0.12/picon/1_0_19_7853_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7853:41A:1:C00000:0:0:0:" tvg-name="M. LaLiga 1 HD",M. LaLiga 1 HD
-#EXTVLCOPT:program=30803
-http://192.168.0.12:8001/1:0:19:7853:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29901" tvg-logo="http://192.168.0.12/picon/1_0_19_74CD_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74CD:3F8:1:C00000:0:0:0:" tvg-name="M. LaLiga 2 HD",M. LaLiga 2 HD
-#EXTVLCOPT:program=29901
-http://192.168.0.12:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29907" tvg-logo="http://192.168.0.12/picon/1_0_19_74D3_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D3:3F8:1:C00000:0:0:0:" tvg-name="M. LaLiga 3 HD",M. LaLiga 3 HD
-#EXTVLCOPT:program=29907
-http://192.168.0.12:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30900" tvg-logo="http://192.168.0.12/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B4:3EC:1:C00000:0:0:0:" tvg-name="M.LCAMPEONES",M.LCAMPEONES
-#EXTVLCOPT:program=30900
-http://192.168.0.12:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29909" tvg-logo="http://192.168.0.12/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D5:3F8:1:C00000:0:0:0:" tvg-name="M.LCAMPEON1",M.LCAMPEON1
-#EXTVLCOPT:program=29909
-http://192.168.0.12:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29915" tvg-logo="http://192.168.0.12/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74DB:3F8:1:C00000:0:0:0:" tvg-name="M.LCAMPEON2",M.LCAMPEON2
-#EXTVLCOPT:program=29915
-http://192.168.0.12:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30760" tvg-logo="http://192.168.0.12/picon/1_0_19_7828_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7828:428:1:C00000:0:0:0:" tvg-name="M. DEPORTESHD",M. DEPORTESHD
-#EXTVLCOPT:program=30760
-http://192.168.0.12:8001/1:0:19:7828:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30002" tvg-logo="http://192.168.0.12/picon/1_0_19_7532_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7532:426:1:C00000:0:0:0:" tvg-name="M. DEPORTES1HD",M. DEPORTES1HD
-#EXTVLCOPT:program=30002
-http://192.168.0.12:8001/1:0:19:7532:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30658" tvg-logo="http://192.168.0.12/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C2:40A:1:C00000:0:0:0:" tvg-name="M. DEPORTES2",M. DEPORTES2
-#EXTVLCOPT:program=30658
-http://192.168.0.12:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30655" tvg-logo="http://192.168.0.12/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77BF:40A:1:C00000:0:0:0:" tvg-name="M. DEPORTES3",M. DEPORTES3
-#EXTVLCOPT:program=30655
-http://192.168.0.12:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30903" tvg-logo="http://192.168.0.12/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B7:3EC:1:C00000:0:0:0:" tvg-name="M. GOLF HD",M. GOLF HD
-#EXTVLCOPT:program=30903
-http://192.168.0.12:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30001" tvg-logo="http://192.168.0.12/picon/1_0_19_7531_426_1_C00000_0_0_0.png" tvg-id="1:0:19:7531:426:1:C00000:0:0:0:" tvg-name="DAZN F1 HD",DAZN F1 HD
-#EXTVLCOPT:program=30001
-http://192.168.0.12:8001/1:0:19:7531:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30805" tvg-logo="http://192.168.0.12/picon/1_0_19_7855_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7855:41A:1:C00000:0:0:0:" tvg-name="DAZN 1 HD",DAZN 1 HD
-#EXTVLCOPT:program=30805
-http://192.168.0.12:8001/1:0:19:7855:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30815" tvg-logo="http://192.168.0.12/picon/1_0_19_785F_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:785F:41A:1:C00000:0:0:0:" tvg-name="DAZN 2 HD",DAZN 2 HD
-#EXTVLCOPT:program=30815
-http://192.168.0.12:8001/1:0:19:785F:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30758" tvg-logo="http://192.168.0.12/picon/1_0_19_7826_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7826:428:1:C00000:0:0:0:" tvg-name="EUROSPORT1HD",EUROSPORT1HD
-#EXTVLCOPT:program=30758
-http://192.168.0.12:8001/1:0:19:7826:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29863" tvg-logo="http://192.168.0.12/picon/1_0_1_74A7_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A7:41C:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
-#EXTVLCOPT:program=29863
-http://192.168.0.12:8001/1:0:1:74A7:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29859" tvg-logo="http://192.168.0.12/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A3:41C:1:C00000:0:0:0:" tvg-name="GOL",GOL
-#EXTVLCOPT:program=29859
-http://192.168.0.12:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30412" tvg-logo="http://192.168.0.12/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CC:40E:1:C00000:0:0:0:" tvg-name="TELEDEPORTE",TELEDEPORTE
-#EXTVLCOPT:program=30412
-http://192.168.0.12:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30861" tvg-logo="http://192.168.0.12/picon/1_0_19_788D_414_1_C00000_0_0_0.png" tvg-id="1:0:19:788D:414:1:C00000:0:0:0:" tvg-name="CAZAyPESCA HD",CAZAyPESCA HD
-#EXTVLCOPT:program=30861
-http://192.168.0.12:8001/1:0:19:788D:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29802" tvg-logo="http://192.168.0.12/picon/1_0_1_746A_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746A:3F0:1:C00000:0:0:0:" tvg-name="IBERALIA TV",IBERALIA TV
-#EXTVLCOPT:program=29802
-http://192.168.0.12:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30765" tvg-logo="http://192.168.0.12/picon/1_0_19_782D_428_1_C00000_0_0_0.png" tvg-id="1:0:19:782D:428:1:C00000:0:0:0:" tvg-name="TOROS HD",TOROS HD
-#EXTVLCOPT:program=30765
-http://192.168.0.12:8001/1:0:19:782D:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30616" tvg-logo="http://192.168.0.12/picon/1_0_1_7798_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7798:424:1:C00000:0:0:0:" tvg-name="R. MADRID TV",R. MADRID TV
-#EXTVLCOPT:program=30616
-http://192.168.0.12:8001/1:0:1:7798:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29856" tvg-logo="http://192.168.0.12/picon/1_0_1_74A0_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A0:41C:1:C00000:0:0:0:" tvg-name="BARÇA TV",BARÇA TV
-#EXTVLCOPT:program=29856
-http://192.168.0.12:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30761" tvg-logo="http://192.168.0.12/picon/1_0_19_7829_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7829:428:1:C00000:0:0:0:" tvg-name="NAT GEO HD",NAT GEO HD
-#EXTVLCOPT:program=30761
-http://192.168.0.12:8001/1:0:19:7829:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30857" tvg-logo="http://192.168.0.12/picon/1_0_19_7889_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7889:414:1:C00000:0:0:0:" tvg-name="NG WILD HD",NG WILD HD
-#EXTVLCOPT:program=30857
-http://192.168.0.12:8001/1:0:19:7889:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30513" tvg-logo="http://192.168.0.12/picon/1_0_1_7731_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7731:416:1:C00000:0:0:0:" tvg-name="HISTORIA",HISTORIA
-#EXTVLCOPT:program=30513
-http://192.168.0.12:8001/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30511" tvg-logo="http://192.168.0.12/picon/1_0_1_772F_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772F:416:1:C00000:0:0:0:" tvg-name="DISCOVERY",DISCOVERY
-#EXTVLCOPT:program=30511
-http://192.168.0.12:8001/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30602" tvg-logo="http://192.168.0.12/picon/1_0_1_778A_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778A:424:1:C00000:0:0:0:" tvg-name="CANAL ODISEA",CANAL ODISEA
-#EXTVLCOPT:program=30602
-http://192.168.0.12:8001/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30509" tvg-logo="http://192.168.0.12/picon/1_0_1_772D_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772D:416:1:C00000:0:0:0:" tvg-name="BLAZE",BLAZE
-#EXTVLCOPT:program=30509
-http://192.168.0.12:8001/1:0:1:772D:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30852" tvg-logo="http://192.168.0.12/picon/1_0_19_7884_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7884:414:1:C00000:0:0:0:" tvg-name="VIAJAR HD",VIAJAR HD
-#EXTVLCOPT:program=30852
-http://192.168.0.12:8001/1:0:19:7884:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30514" tvg-logo="http://192.168.0.12/picon/1_0_1_7732_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7732:416:1:C00000:0:0:0:" tvg-name="CRIMEN+INVES",CRIMEN+INVES
-#EXTVLCOPT:program=30514
-http://192.168.0.12:8001/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30613" tvg-logo="http://192.168.0.12/picon/1_0_1_7795_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7795:424:1:C00000:0:0:0:" tvg-name="CANAL DECASA",CANAL DECASA
-#EXTVLCOPT:program=30613
-http://192.168.0.12:8001/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30414" tvg-logo="http://192.168.0.12/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CE:40E:1:C00000:0:0:0:" tvg-name="CANAL COCINA",CANAL COCINA
-#EXTVLCOPT:program=30414
-http://192.168.0.12:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29850" tvg-logo="http://192.168.0.12/picon/1_0_1_749A_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749A:41C:1:C00000:0:0:0:" tvg-name="DIVINITY",DIVINITY
-#EXTVLCOPT:program=29850
-http://192.168.0.12:8001/1:0:1:749A:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29801" tvg-logo="http://192.168.0.12/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7469:3F0:1:C00000:0:0:0:" tvg-name="NOVA",NOVA
-#EXTVLCOPT:program=29801
-http://192.168.0.12:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29864" tvg-logo="http://192.168.0.12/picon/1_0_1_74A8_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A8:41C:1:C00000:0:0:0:" tvg-name="BE MAD",BE MAD
-#EXTVLCOPT:program=29864
-http://192.168.0.12:8001/1:0:1:74A8:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29852" tvg-logo="http://192.168.0.12/picon/1_0_1_749C_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749C:41C:1:C00000:0:0:0:" tvg-name="BabyTV",BabyTV
-#EXTVLCOPT:program=29852
-http://192.168.0.12:8001/1:0:1:749C:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29803" tvg-logo="http://192.168.0.12/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746B:3F0:1:C00000:0:0:0:" tvg-name="DISNEY JR",DISNEY JR
-#EXTVLCOPT:program=29803
-http://192.168.0.12:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30404" tvg-logo="http://192.168.0.12/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C4:40E:1:C00000:0:0:0:" tvg-name="CANAL PANDA",CANAL PANDA
-#EXTVLCOPT:program=30404
-http://192.168.0.12:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30359" tvg-logo="http://192.168.0.12/picon/1_0_1_7697_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7697:41E:1:C00000:0:0:0:" tvg-name="NICK JR",NICK JR
-#EXTVLCOPT:program=30359
-http://192.168.0.12:8001/1:0:1:7697:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30752" tvg-logo="http://192.168.0.12/picon/1_0_19_7820_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7820:428:1:C00000:0:0:0:" tvg-name="NICKELODEONHD",NICKELODEONHD
-#EXTVLCOPT:program=30752
-http://192.168.0.12:8001/1:0:19:7820:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29965" tvg-logo="http://192.168.0.12/picon/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750D:420:1:C00000:0:0:0:" tvg-name="DreamWorks HD",DreamWorks HD
-#EXTVLCOPT:program=29965
-http://192.168.0.12:8001/1:0:19:750D:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30859" tvg-logo="http://192.168.0.12/picon/1_0_19_788B_414_1_C00000_0_0_0.png" tvg-id="1:0:19:788B:414:1:C00000:0:0:0:" tvg-name="DISNEY CH HD",DISNEY CH HD
-#EXTVLCOPT:program=30859
-http://192.168.0.12:8001/1:0:19:788B:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29854" tvg-logo="http://192.168.0.12/picon/1_0_1_749E_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749E:41C:1:C00000:0:0:0:" tvg-name="BOING",BOING
-#EXTVLCOPT:program=29854
-http://192.168.0.12:8001/1:0:1:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30401" tvg-logo="http://192.168.0.12/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C1:40E:1:C00000:0:0:0:" tvg-name="CLAN TVE",CLAN TVE
-#EXTVLCOPT:program=30401
-http://192.168.0.12:8001/1:0:1:76C1:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="28656" tvg-logo="http://192.168.0.12/picon/1_0_1_6FF0_436_1_C00000_0_0_0.png" tvg-id="1:0:1:6FF0:436:1:C00000:0:0:0:" tvg-name="VH1",VH1
-#EXTVLCOPT:program=28656
-http://192.168.0.12:8001/1:0:1:6FF0:436:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30361" tvg-logo="http://192.168.0.12/picon/1_0_1_7699_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7699:41E:1:C00000:0:0:0:" tvg-name="MEZZO",MEZZO
-#EXTVLCOPT:program=30361
-http://192.168.0.12:8001/1:0:1:7699:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30755" tvg-logo="http://192.168.0.12/picon/1_0_19_7823_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7823:428:1:C00000:0:0:0:" tvg-name="MEZZO LIVE HD",MEZZO LIVE HD
-#EXTVLCOPT:program=30755
-http://192.168.0.12:8001/1:0:19:7823:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30071" tvg-logo="http://192.168.0.12/picon/1_0_1_7577_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7577:412:1:C00000:0:0:0:" tvg-name="CLASSICA",CLASSICA
-#EXTVLCOPT:program=30071
-http://192.168.0.12:8001/1:0:1:7577:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30102" tvg-logo="http://192.168.0.12/picon/1_0_1_7596_422_1_C00000_0_0_0.png" tvg-id="1:0:1:7596:422:1:C00000:0:0:0:" tvg-name="RADIOS",RADIOS
-#EXTVLCOPT:program=30102
-http://192.168.0.12:8001/1:0:1:7596:422:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30603" tvg-logo="http://192.168.0.12/picon/1_0_1_778B_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778B:424:1:C00000:0:0:0:" tvg-name="PLAYBOY TV",PLAYBOY TV
-#EXTVLCOPT:program=30603
-http://192.168.0.12:8001/1:0:1:778B:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30520" tvg-logo="http://192.168.0.12/picon/1_0_1_7738_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7738:416:1:C00000:0:0:0:" tvg-name="24 HORAS",24 HORAS
-#EXTVLCOPT:program=30520
-http://192.168.0.12:8001/1:0:1:7738:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="5001" tvg-logo="http://192.168.0.12/picon/1_0_19_1389_3EA_1_C00000_0_0_0.png" tvg-id="1:0:19:1389:3EA:1:C00000:0:0:0:" tvg-name="BBC World News Europe HD",BBC World News Europe HD
-#EXTVLCOPT:program=5001
-http://192.168.0.12:8001/1:0:19:1389:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="4422" tvg-logo="http://192.168.0.12/picon/1_0_1_1146_404_1_C00000_0_0_0.png" tvg-id="1:0:1:1146:404:1:C00000:0:0:0:" tvg-name="CNN Int.",CNN Int.
-#EXTVLCOPT:program=4422
-http://192.168.0.12:8001/1:0:1:1146:404:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29851" tvg-logo="http://192.168.0.12/picon/1_0_1_749B_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749B:41C:1:C00000:0:0:0:" tvg-name="FOX NEWS",FOX NEWS
-#EXTVLCOPT:program=29851
-http://192.168.0.12:8001/1:0:1:749B:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="31220" tvg-logo="http://192.168.0.12/picon/1_0_1_79F4_443_1_C00000_0_0_0.png" tvg-id="1:0:1:79F4:443:1:C00000:0:0:0:" tvg-name="EURONEWS FRENCH SD",EURONEWS FRENCH SD
-#EXTVLCOPT:program=31220
-http://192.168.0.12:8001/1:0:1:79F4:443:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="4440" tvg-logo="http://192.168.0.12/picon/1_0_1_1158_404_1_C00000_0_0_0.png" tvg-id="1:0:1:1158:404:1:C00000:0:0:0:" tvg-name="Al Jazeera English",Al Jazeera English
-#EXTVLCOPT:program=4440
-http://192.168.0.12:8001/1:0:1:1158:404:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6906" tvg-logo="http://192.168.0.12/picon/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1AFA:3FE:1:C00000:0:0:0:" tvg-name="France 24 (in English)",France 24 (in English)
-#EXTVLCOPT:program=6906
-http://192.168.0.12:8001/1:0:1:1AFA:3FE:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6392" tvg-logo="http://192.168.0.12/picon/1_0_19_18F8_3F4_1_C00000_0_0_0.png" tvg-id="1:0:19:18F8:3F4:1:C00000:0:0:0:" tvg-name="RT Esp HD",RT Esp HD
-#EXTVLCOPT:program=6392
-http://192.168.0.12:8001/1:0:19:18F8:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="125" tvg-logo="http://192.168.0.12/picon/1_0_19_7D_9_85_C00000_0_0_0.png" tvg-id="1:0:19:7D:9:85:C00000:0:0:0:" tvg-name="CNBC HD",CNBC HD
-#EXTVLCOPT:program=125
-http://192.168.0.12:8001/1:0:19:7D:9:85:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6915" tvg-logo="http://192.168.0.12/picon/1_0_1_1B03_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1B03:3FE:1:C00000:0:0:0:" tvg-name="TV5MONDE EUROPE HD",TV5MONDE EUROPE HD
-#EXTVLCOPT:program=6915
-http://192.168.0.12:8001/1:0:1:1B03:3FE:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="10067" tvg-logo="http://192.168.0.12/picon/1_0_1_2753_402_1_C00000_0_0_0.png" tvg-id="1:0:1:2753:402:1:C00000:0:0:0:" tvg-name="Bloomberg Europe TV",Bloomberg Europe TV
-#EXTVLCOPT:program=10067
-http://192.168.0.12:8001/1:0:1:2753:402:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="7290" tvg-logo="http://192.168.0.12/picon/1_0_1_1C7A_457_1_C00000_0_0_0.png" tvg-id="1:0:1:1C7A:457:1:C00000:0:0:0:" tvg-name="Sky News Intl",Sky News Intl
-#EXTVLCOPT:program=7290
-http://192.168.0.12:8001/1:0:1:1C7A:457:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6382" tvg-logo="http://192.168.0.12/picon/1_0_19_18EE_3F4_1_C00000_0_0_0.png" tvg-id="1:0:19:18EE:3F4:1:C00000:0:0:0:" tvg-name="RT Esp HD",RT Esp HD
-#EXTVLCOPT:program=6382
-http://192.168.0.12:8001/1:0:19:18EE:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6383" tvg-logo="http://192.168.0.12/picon/1_0_19_18EF_3F4_1_C00000_0_0_0.png" tvg-id="1:0:19:18EF:3F4:1:C00000:0:0:0:" tvg-name="RT France HD",RT France HD
-#EXTVLCOPT:program=6383
-http://192.168.0.12:8001/1:0:19:18EF:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="28724" tvg-logo="http://192.168.0.12/picon/1_0_1_7034_41B_1_C00000_0_0_0.png" tvg-id="1:0:1:7034:41B:1:C00000:0:0:0:" tvg-name="arte",arte
-#EXTVLCOPT:program=28724
-http://192.168.0.12:8001/1:0:1:7034:41B:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="31307" tvg-logo="http://192.168.0.12/picon/1_0_1_7A4B_410_1_C00000_0_0_0.png" tvg-id="1:0:1:7A4B:410:1:C00000:0:0:0:" tvg-name="I24 Francis",I24 Francis
-#EXTVLCOPT:program=31307
-http://192.168.0.12:8001/1:0:1:7A4B:410:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6905" tvg-logo="http://192.168.0.12/picon/1_0_1_1AF9_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1AF9:3FE:1:C00000:0:0:0:" tvg-name="France 24 (en Français)",France 24 (en Français)
-#EXTVLCOPT:program=6905
-http://192.168.0.12:8001/1:0:1:1AF9:3FE:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="31304" tvg-logo="http://192.168.0.12/picon/1_0_1_7A48_410_1_C00000_0_0_0.png" tvg-id="1:0:1:7A48:410:1:C00000:0:0:0:" tvg-name="Telesur SD",Telesur SD
-#EXTVLCOPT:program=31304
-http://192.168.0.12:8001/1:0:1:7A48:410:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="7008" tvg-logo="http://192.168.0.12/picon/1_0_1_1B60_3FC_1_C00000_0_0_0.png" tvg-id="1:0:1:1B60:3FC:1:C00000:0:0:0:" tvg-name="Cubavision Internacional",Cubavision Internacional
-#EXTVLCOPT:program=7008
-http://192.168.0.12:8001/1:0:1:1B60:3FC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="31305" tvg-logo="http://192.168.0.12/picon/1_0_19_7A49_410_1_C00000_0_0_0.png" tvg-id="1:0:19:7A49:410:1:C00000:0:0:0:" tvg-name="Telesur HD",Telesur HD
-#EXTVLCOPT:program=31305
-http://192.168.0.12:8001/1:0:19:7A49:410:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="5021" tvg-logo="http://192.168.0.12/picon/1_0_19_139D_3EA_1_C00000_0_0_0.png" tvg-id="1:0:19:139D:3EA:1:C00000:0:0:0:" tvg-name="NHK WORLD-JPN",NHK WORLD-JPN
-#EXTVLCOPT:program=5021
-http://192.168.0.12:8001/1:0:19:139D:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="7012" tvg-logo="http://192.168.0.12/picon/1_0_1_1B64_3FC_1_C00000_0_0_0.png" tvg-id="1:0:1:1B64:3FC:1:C00000:0:0:0:" tvg-name="Arirang HD",Arirang HD
-#EXTVLCOPT:program=7012
-http://192.168.0.12:8001/1:0:1:1B64:3FC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30809" tvg-logo="http://192.168.0.12/picon/1_0_19_7859_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7859:41A:1:C00000:0:0:0:" tvg-name="LALIGATV BAR",LALIGATV BAR
-#EXTVLCOPT:program=30809
-http://192.168.0.12:8001/1:0:19:7859:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30405" tvg-logo="http://192.168.0.12/picon/1_0_1_76C5_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C5:40E:1:C00000:0:0:0:" tvg-name="LALIGATVBAR1",LALIGATVBAR1
-#EXTVLCOPT:program=30405
-http://192.168.0.12:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30362" tvg-logo="http://192.168.0.12/picon/1_0_1_769A_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:769A:41E:1:C00000:0:0:0:" tvg-name="LALIGATVBAR2",LALIGATVBAR2
-#EXTVLCOPT:program=30362
-http://192.168.0.12:8001/1:0:1:769A:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30068" tvg-logo="http://192.168.0.12/picon/1_0_1_7574_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7574:412:1:C00000:0:0:0:" tvg-name="LALIGATVBAR3",LALIGATVBAR3
-#EXTVLCOPT:program=30068
-http://192.168.0.12:8001/1:0:1:7574:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30082" tvg-logo="http://192.168.0.12/picon/1_0_1_7582_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7582:412:1:C00000:0:0:0:" tvg-name="LALIGATVBAR4",LALIGATVBAR4
-#EXTVLCOPT:program=30082
-http://192.168.0.12:8001/1:0:1:7582:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30505" tvg-logo="http://192.168.0.12/picon/1_0_1_7729_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7729:416:1:C00000:0:0:0:" tvg-name="CANAL SUR A.",CANAL SUR A.
-#EXTVLCOPT:program=30505
-http://192.168.0.12:8001/1:0:1:7729:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6385" tvg-logo="http://192.168.0.12/picon/1_0_1_18F1_3F4_1_C00000_0_0_0.png" tvg-id="1:0:1:18F1:3F4:1:C00000:0:0:0:" tvg-name="TVGA HD EUROPA",TVGA HD EUROPA
-#EXTVLCOPT:program=6385
-http://192.168.0.12:8001/1:0:1:18F1:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="6384" tvg-logo="http://192.168.0.12/picon/1_0_19_18F0_3F4_1_C00000_0_0_0.png" tvg-id="1:0:19:18F0:3F4:1:C00000:0:0:0:" tvg-name="EXTREMADURA SAT",EXTREMADURA SAT
-#EXTVLCOPT:program=6384
-http://192.168.0.12:8001/1:0:19:18F0:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29811" tvg-logo="http://192.168.0.12/picon/1_0_1_7473_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7473:3F0:1:C00000:0:0:0:" tvg-name="ARAGON TV INT",ARAGON TV INT
-#EXTVLCOPT:program=29811
-http://192.168.0.12:8001/1:0:1:7473:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="10080" tvg-logo="http://192.168.0.12/picon/1_0_1_2760_402_1_C00000_0_0_0.png" tvg-id="1:0:1:2760:402:1:C00000:0:0:0:" tvg-name="SonLife Broadcasting Network",SonLife Broadcasting Network
-#EXTVLCOPT:program=10080
-http://192.168.0.12:8001/1:0:1:2760:402:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30128" tvg-logo="http://192.168.0.12/picon/1_0_1_75B0_422_1_C00000_0_0_0.png" tvg-id="1:0:1:75B0:422:1:C00000:0:0:0:" tvg-name="ALQUILER",ALQUILER
-#EXTVLCOPT:program=30128
-http://192.168.0.12:8001/1:0:1:75B0:422:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30350" tvg-logo="http://192.168.0.12/picon/1_0_1_768E_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:768E:41E:1:C00000:0:0:0:" tvg-name="ALQUILER 1",ALQUILER 1
-#EXTVLCOPT:program=30350
-http://192.168.0.12:8001/1:0:1:768E:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30804" tvg-logo="http://192.168.0.12/picon/1_0_19_7854_41A_1_C00000_0_0_0.png" tvg-id="1:0:19:7854:41A:1:C00000:0:0:0:" tvg-name="ALQUILER HD",ALQUILER HD
-#EXTVLCOPT:program=30804
-http://192.168.0.12:8001/1:0:19:7854:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30056" tvg-logo="http://192.168.0.12/picon/1_0_1_7568_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7568:412:1:C00000:0:0:0:" tvg-name="ALQUILER X",ALQUILER X
-#EXTVLCOPT:program=30056
-http://192.168.0.12:8001/1:0:1:7568:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30057" tvg-logo="http://192.168.0.12/picon/1_0_1_7569_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7569:412:1:C00000:0:0:0:" tvg-name="ALQUILER XX",ALQUILER XX
-#EXTVLCOPT:program=30057
-http://192.168.0.12:8001/1:0:1:7569:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30357" tvg-logo="http://192.168.0.12/picon/1_0_1_7695_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7695:41E:1:C00000:0:0:0:" tvg-name="ALQUILER XY",ALQUILER XY
-#EXTVLCOPT:program=30357
-http://192.168.0.12:8001/1:0:1:7695:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30665" tvg-logo="http://192.168.0.12/picon/1_0_1_77C9_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C9:40A:1:C00000:0:0:0:" tvg-name="M. LaLiga 4",M. LaLiga 4
-#EXTVLCOPT:program=30665
-http://192.168.0.12:8001/1:0:1:77C9:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30073" tvg-logo="http://192.168.0.12/picon/1_0_1_7579_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7579:412:1:C00000:0:0:0:" tvg-name="M. LaLiga 5",M. LaLiga 5
-#EXTVLCOPT:program=30073
-http://192.168.0.12:8001/1:0:1:7579:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30078" tvg-logo="http://192.168.0.12/picon/1_0_1_757E_412_1_C00000_0_0_0.png" tvg-id="1:0:1:757E:412:1:C00000:0:0:0:" tvg-name="M. LaLiga 6",M. LaLiga 6
-#EXTVLCOPT:program=30078
-http://192.168.0.12:8001/1:0:1:757E:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30062" tvg-logo="http://192.168.0.12/picon/1_0_1_756E_412_1_C00000_0_0_0.png" tvg-id="1:0:1:756E:412:1:C00000:0:0:0:" tvg-name="M. LaLiga 7",M. LaLiga 7
-#EXTVLCOPT:program=30062
-http://192.168.0.12:8001/1:0:1:756E:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30352" tvg-logo="http://192.168.0.12/picon/1_0_1_7690_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7690:41E:1:C00000:0:0:0:" tvg-name="M. LaLiga 8",M. LaLiga 8
-#EXTVLCOPT:program=30352
-http://192.168.0.12:8001/1:0:1:7690:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30081" tvg-logo="http://192.168.0.12/picon/1_0_1_7581_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7581:412:1:C00000:0:0:0:" tvg-name="M. LaLiga 9",M. LaLiga 9
-#EXTVLCOPT:program=30081
-http://192.168.0.12:8001/1:0:1:7581:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30072" tvg-logo="http://192.168.0.12/picon/1_0_1_7578_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7578:412:1:C00000:0:0:0:" tvg-name="M. LaLiga 10",M. LaLiga 10
-#EXTVLCOPT:program=30072
-http://192.168.0.12:8001/1:0:1:7578:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29912" tvg-logo="http://192.168.0.12/picon/1_0_19_74D8_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D8:3F8:1:C00000:0:0:0:" tvg-name="DAZN 3 HD",DAZN 3 HD
-#EXTVLCOPT:program=29912
-http://192.168.0.12:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29910" tvg-logo="http://192.168.0.12/picon/1_0_19_74D6_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D6:3F8:1:C00000:0:0:0:" tvg-name="DAZN 4 HD",DAZN 4 HD
-#EXTVLCOPT:program=29910
-http://192.168.0.12:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30375" tvg-logo="http://192.168.0.12/picon/1_0_1_76A7_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:76A7:41E:1:C00000:0:0:0:" tvg-name="TEST F1",TEST F1
-#EXTVLCOPT:program=30375
-http://192.168.0.12:8001/1:0:1:76A7:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30680" tvg-logo="http://192.168.0.12/picon/1_0_1_77D8_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77D8:40A:1:C00000:0:0:0:" tvg-name="M.LCAMPEON3",M.LCAMPEON3
-#EXTVLCOPT:program=30680
-http://192.168.0.12:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30660" tvg-logo="http://192.168.0.12/picon/1_0_1_77C4_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C4:40A:1:C00000:0:0:0:" tvg-name="M.LCAMPEON4",M.LCAMPEON4
-#EXTVLCOPT:program=30660
-http://192.168.0.12:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30077" tvg-logo="http://192.168.0.12/picon/1_0_1_757D_412_1_C00000_0_0_0.png" tvg-id="1:0:1:757D:412:1:C00000:0:0:0:" tvg-name="M.LCAMPEON5",M.LCAMPEON5
-#EXTVLCOPT:program=30077
-http://192.168.0.12:8001/1:0:1:757D:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30076" tvg-logo="http://192.168.0.12/picon/1_0_1_757C_412_1_C00000_0_0_0.png" tvg-id="1:0:1:757C:412:1:C00000:0:0:0:" tvg-name="M.LCAMPEON6",M.LCAMPEON6
-#EXTVLCOPT:program=30076
-http://192.168.0.12:8001/1:0:1:757C:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30364" tvg-logo="http://192.168.0.12/picon/1_0_1_769C_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:769C:41E:1:C00000:0:0:0:" tvg-name="M.LCAMPEON7",M.LCAMPEON7
-#EXTVLCOPT:program=30364
-http://192.168.0.12:8001/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30070" tvg-logo="http://192.168.0.12/picon/1_0_1_7576_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7576:412:1:C00000:0:0:0:" tvg-name="M.LCAMPEON8",M.LCAMPEON8
-#EXTVLCOPT:program=30070
-http://192.168.0.12:8001/1:0:1:7576:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30664" tvg-logo="http://192.168.0.12/picon/1_0_1_77C8_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C8:40A:1:C00000:0:0:0:" tvg-name="M. DEPORTES4",M. DEPORTES4
-#EXTVLCOPT:program=30664
-http://192.168.0.12:8001/1:0:1:77C8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30363" tvg-logo="http://192.168.0.12/picon/1_0_1_769B_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:769B:41E:1:C00000:0:0:0:" tvg-name="M. DEPORTES5",M. DEPORTES5
-#EXTVLCOPT:program=30363
-http://192.168.0.12:8001/1:0:1:769B:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30069" tvg-logo="http://192.168.0.12/picon/1_0_1_7575_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7575:412:1:C00000:0:0:0:" tvg-name="M. DEPORTES6",M. DEPORTES6
-#EXTVLCOPT:program=30069
-http://192.168.0.12:8001/1:0:1:7575:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30061" tvg-logo="http://192.168.0.12/picon/1_0_1_756D_412_1_C00000_0_0_0.png" tvg-id="1:0:1:756D:412:1:C00000:0:0:0:" tvg-name="M. DEPORTES7",M. DEPORTES7
-#EXTVLCOPT:program=30061
-http://192.168.0.12:8001/1:0:1:756D:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30606" tvg-logo="http://192.168.0.12/picon/1_0_1_778E_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778E:424:1:C00000:0:0:0:" tvg-name="#VAMOS BAR",#VAMOS BAR
-#EXTVLCOPT:program=30606
-http://192.168.0.12:8001/1:0:1:778E:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30060" tvg-logo="http://192.168.0.12/picon/1_0_1_756C_412_1_C00000_0_0_0.png" tvg-id="1:0:1:756C:412:1:C00000:0:0:0:" tvg-name="#VAMOS BAR1",#VAMOS BAR1
-#EXTVLCOPT:program=30060
-http://192.168.0.12:8001/1:0:1:756C:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30084" tvg-logo="http://192.168.0.12/picon/1_0_1_7584_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7584:412:1:C00000:0:0:0:" tvg-name="#VAMOS BAR2",#VAMOS BAR2
-#EXTVLCOPT:program=30084
-http://192.168.0.12:8001/1:0:1:7584:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30150" tvg-logo="http://192.168.0.12/picon/1_0_1_75C6_422_1_C00000_0_0_0.png" tvg-id="1:0:1:75C6:422:1:C00000:0:0:0:" tvg-name="PORTADA",PORTADA
-#EXTVLCOPT:program=30150
-http://192.168.0.12:8001/1:0:1:75C6:422:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30121" tvg-logo="http://192.168.0.12/picon/1_0_1_75A9_422_1_C00000_0_0_0.png" tvg-id="1:0:1:75A9:422:1:C00000:0:0:0:" tvg-name="GUÍA",GUÍA
-#EXTVLCOPT:program=30121
-http://192.168.0.12:8001/1:0:1:75A9:422:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30402" tvg-logo="http://192.168.0.12/picon/1_0_1_76C2_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C2:40E:1:C00000:0:0:0:" tvg-name="LA 1",LA 1
-#EXTVLCOPT:program=30402
-http://192.168.0.12:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30508" tvg-logo="http://192.168.0.12/picon/1_0_1_772C_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772C:416:1:C00000:0:0:0:" tvg-name="ANTENA 3",ANTENA 3
-#EXTVLCOPT:program=30508
-http://192.168.0.12:8001/1:0:1:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30610" tvg-logo="http://192.168.0.12/picon/1_0_1_7792_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7792:424:1:C00000:0:0:0:" tvg-name="CUATRO",CUATRO
-#EXTVLCOPT:program=30610
-http://192.168.0.12:8001/1:0:1:7792:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30604" tvg-logo="http://192.168.0.12/picon/1_0_1_778C_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778C:424:1:C00000:0:0:0:" tvg-name="TELECINCO",TELECINCO
-#EXTVLCOPT:program=30604
-http://192.168.0.12:8001/1:0:1:778C:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29862" tvg-logo="http://192.168.0.12/picon/1_0_1_74A6_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A6:41C:1:C00000:0:0:0:" tvg-name="LA SEXTA",LA SEXTA
-#EXTVLCOPT:program=29862
-http://192.168.0.12:8001/1:0:1:74A6:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29816" tvg-logo="http://192.168.0.12/picon/1_0_1_7478_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7478:3F0:1:C00000:0:0:0:" tvg-name="#0",#0
-#EXTVLCOPT:program=29816
-http://192.168.0.12:8001/1:0:1:7478:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30516" tvg-logo="http://192.168.0.12/picon/1_0_1_7734_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7734:416:1:C00000:0:0:0:" tvg-name="#VAMOS",#VAMOS
-#EXTVLCOPT:program=30516
-http://192.168.0.12:8001/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30358" tvg-logo="http://192.168.0.12/picon/1_0_1_7696_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7696:41E:1:C00000:0:0:0:" tvg-name="M. SERIES",M. SERIES
-#EXTVLCOPT:program=30358
-http://192.168.0.12:8001/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30410" tvg-logo="http://192.168.0.12/picon/1_0_1_76CA_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CA:40E:1:C00000:0:0:0:" tvg-name="M. SERIESMANIA",M. SERIESMANIA
-#EXTVLCOPT:program=30410
-http://192.168.0.12:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29807" tvg-logo="http://192.168.0.12/picon/1_0_1_746F_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746F:3F0:1:C00000:0:0:0:" tvg-name="FOX",FOX
-#EXTVLCOPT:program=29807
-http://192.168.0.12:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29815" tvg-logo="http://192.168.0.12/picon/1_0_1_7477_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7477:3F0:1:C00000:0:0:0:" tvg-name="AXN",AXN
-#EXTVLCOPT:program=29815
-http://192.168.0.12:8001/1:0:1:7477:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30411" tvg-logo="http://192.168.0.12/picon/1_0_1_76CB_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CB:40E:1:C00000:0:0:0:" tvg-name="TNT",TNT
-#EXTVLCOPT:program=30411
-http://192.168.0.12:8001/1:0:1:76CB:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30408" tvg-logo="http://192.168.0.12/picon/1_0_1_76C8_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C8:40E:1:C00000:0:0:0:" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
-#EXTVLCOPT:program=30408
-http://192.168.0.12:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30608" tvg-logo="http://192.168.0.12/picon/1_0_1_7790_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7790:424:1:C00000:0:0:0:" tvg-name="CALLE 13",CALLE 13
-#EXTVLCOPT:program=30608
-http://192.168.0.12:8001/1:0:1:7790:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30512" tvg-logo="http://192.168.0.12/picon/1_0_1_7730_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7730:416:1:C00000:0:0:0:" tvg-name="COSMO",COSMO
-#EXTVLCOPT:program=30512
-http://192.168.0.12:8001/1:0:1:7730:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30415" tvg-logo="http://192.168.0.12/picon/1_0_1_76CF_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CF:40E:1:C00000:0:0:0:" tvg-name="AMC",AMC
-#EXTVLCOPT:program=30415
-http://192.168.0.12:8001/1:0:1:76CF:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29800" tvg-logo="http://192.168.0.12/picon/1_0_1_7468_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7468:3F0:1:C00000:0:0:0:" tvg-name="FOX LIFE",FOX LIFE
-#EXTVLCOPT:program=29800
-http://192.168.0.12:8001/1:0:1:7468:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29809" tvg-logo="http://192.168.0.12/picon/1_0_1_7471_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7471:3F0:1:C00000:0:0:0:" tvg-name="AXN WHITE",AXN WHITE
-#EXTVLCOPT:program=29809
-http://192.168.0.12:8001/1:0:1:7471:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30614" tvg-logo="http://192.168.0.12/picon/1_0_1_7796_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7796:424:1:C00000:0:0:0:" tvg-name="SYFY",SYFY
-#EXTVLCOPT:program=30614
-http://192.168.0.12:8001/1:0:1:7796:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30400" tvg-logo="http://192.168.0.12/picon/1_0_1_76C0_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C0:40E:1:C00000:0:0:0:" tvg-name="M. ESTRENOS",M. ESTRENOS
-#EXTVLCOPT:program=30400
-http://192.168.0.12:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30662" tvg-logo="http://192.168.0.12/picon/1_0_1_77C6_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C6:40A:1:C00000:0:0:0:" tvg-name="M.CineDoc&Roll",M.CineDoc&Roll
-#EXTVLCOPT:program=30662
-http://192.168.0.12:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29804" tvg-logo="http://192.168.0.12/picon/1_0_1_746C_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746C:3F0:1:C00000:0:0:0:" tvg-name="M. ACCIÓN",M. ACCIÓN
-#EXTVLCOPT:program=29804
-http://192.168.0.12:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29805" tvg-logo="http://192.168.0.12/picon/1_0_1_746D_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746D:3F0:1:C00000:0:0:0:" tvg-name="M. COMEDIA",M. COMEDIA
-#EXTVLCOPT:program=29805
-http://192.168.0.12:8001/1:0:1:746D:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29806" tvg-logo="http://192.168.0.12/picon/1_0_1_746E_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746E:3F0:1:C00000:0:0:0:" tvg-name="M. DRAMA",M. DRAMA
-#EXTVLCOPT:program=29806
-http://192.168.0.12:8001/1:0:1:746E:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30407" tvg-logo="http://192.168.0.12/picon/1_0_1_76C7_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C7:40E:1:C00000:0:0:0:" tvg-name="TCM",TCM
-#EXTVLCOPT:program=30407
-http://192.168.0.12:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30657" tvg-logo="http://192.168.0.12/picon/1_0_1_77C1_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C1:40A:1:C00000:0:0:0:" tvg-name="HOLLYWOOD",HOLLYWOOD
-#EXTVLCOPT:program=30657
-http://192.168.0.12:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30515" tvg-logo="http://192.168.0.12/picon/1_0_1_7733_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7733:416:1:C00000:0:0:0:" tvg-name="#VAMOS",#VAMOS
-#EXTVLCOPT:program=30515
-http://192.168.0.12:8001/1:0:1:7733:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30615" tvg-logo="http://192.168.0.12/picon/1_0_1_7797_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7797:424:1:C00000:0:0:0:" tvg-name="M. LaLiga",M. LaLiga
-#EXTVLCOPT:program=30615
-http://192.168.0.12:8001/1:0:1:7797:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30365" tvg-logo="http://192.168.0.12/picon/1_0_1_769D_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:769D:41E:1:C00000:0:0:0:" tvg-name="M. LaLiga 1",M. LaLiga 1
-#EXTVLCOPT:program=30365
-http://192.168.0.12:8001/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30653" tvg-logo="http://192.168.0.12/picon/1_0_1_77BD_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77BD:40A:1:C00000:0:0:0:" tvg-name="M. LaLiga 2",M. LaLiga 2
-#EXTVLCOPT:program=30653
-http://192.168.0.12:8001/1:0:1:77BD:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30366" tvg-logo="http://192.168.0.12/picon/1_0_1_769E_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:769E:41E:1:C00000:0:0:0:" tvg-name="M. LaLiga 3",M. LaLiga 3
-#EXTVLCOPT:program=30366
-http://192.168.0.12:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30075" tvg-logo="http://192.168.0.12/picon/1_0_1_757B_412_1_C00000_0_0_0.png" tvg-id="1:0:1:757B:412:1:C00000:0:0:0:" tvg-name="M.LCAMPEONES",M.LCAMPEONES
-#EXTVLCOPT:program=30075
-http://192.168.0.12:8001/1:0:1:757B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30659" tvg-logo="http://192.168.0.12/picon/1_0_1_77C3_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C3:40A:1:C00000:0:0:0:" tvg-name="M.LCAMPEON1",M.LCAMPEON1
-#EXTVLCOPT:program=30659
-http://192.168.0.12:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30367" tvg-logo="http://192.168.0.12/picon/1_0_1_769F_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:769F:41E:1:C00000:0:0:0:" tvg-name="M.LCAMPEON2",M.LCAMPEON2
-#EXTVLCOPT:program=30367
-http://192.168.0.12:8001/1:0:1:769F:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30607" tvg-logo="http://192.168.0.12/picon/1_0_1_778F_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778F:424:1:C00000:0:0:0:" tvg-name="M. DEPORTES",M. DEPORTES
-#EXTVLCOPT:program=30607
-http://192.168.0.12:8001/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30521" tvg-logo="http://192.168.0.12/picon/1_0_1_7739_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7739:416:1:C00000:0:0:0:" tvg-name="M. DEPORTES1",M. DEPORTES1
-#EXTVLCOPT:program=30521
-http://192.168.0.12:8001/1:0:1:7739:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30601" tvg-logo="http://192.168.0.12/picon/1_0_1_7789_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7789:424:1:C00000:0:0:0:" tvg-name="M. GOLF",M. GOLF
-#EXTVLCOPT:program=30601
-http://192.168.0.12:8001/1:0:1:7789:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29860" tvg-logo="http://192.168.0.12/picon/1_0_1_74A4_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A4:41C:1:C00000:0:0:0:" tvg-name="DAZN F1",DAZN F1
-#EXTVLCOPT:program=29860
-http://192.168.0.12:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30372" tvg-logo="http://192.168.0.12/picon/1_0_1_76A4_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:76A4:41E:1:C00000:0:0:0:" tvg-name="DAZN 1",DAZN 1
-#EXTVLCOPT:program=30372
-http://192.168.0.12:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30506" tvg-logo="http://192.168.0.12/picon/1_0_1_772A_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772A:416:1:C00000:0:0:0:" tvg-name="DAZN 2",DAZN 2
-#EXTVLCOPT:program=30506
-http://192.168.0.12:8001/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29857" tvg-logo="http://192.168.0.12/picon/1_0_1_74A1_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A1:41C:1:C00000:0:0:0:" tvg-name="EUROSPORT 1",EUROSPORT 1
-#EXTVLCOPT:program=29857
-http://192.168.0.12:8001/1:0:1:74A1:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30507" tvg-logo="http://192.168.0.12/picon/1_0_1_772B_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772B:416:1:C00000:0:0:0:" tvg-name="CAZA Y PESCA",CAZA Y PESCA
-#EXTVLCOPT:program=30507
-http://192.168.0.12:8001/1:0:1:772B:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30064" tvg-logo="http://192.168.0.12/picon/1_0_1_7570_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7570:412:1:C00000:0:0:0:" tvg-name="TOROS",TOROS
-#EXTVLCOPT:program=30064
-http://192.168.0.12:8001/1:0:1:7570:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30605" tvg-logo="http://192.168.0.12/picon/1_0_1_778D_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778D:424:1:C00000:0:0:0:" tvg-name="NAT GEOGRAPH",NAT GEOGRAPH
-#EXTVLCOPT:program=30605
-http://192.168.0.12:8001/1:0:1:778D:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29810" tvg-logo="http://192.168.0.12/picon/1_0_1_7472_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7472:3F0:1:C00000:0:0:0:" tvg-name="NAT GEO WILD",NAT GEO WILD
-#EXTVLCOPT:program=29810
-http://192.168.0.12:8001/1:0:1:7472:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30409" tvg-logo="http://192.168.0.12/picon/1_0_1_76C9_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C9:40E:1:C00000:0:0:0:" tvg-name="VIAJAR",VIAJAR
-#EXTVLCOPT:program=30409
-http://192.168.0.12:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30510" tvg-logo="http://192.168.0.12/picon/1_0_1_772E_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772E:416:1:C00000:0:0:0:" tvg-name="NICKELODEON",NICKELODEON
-#EXTVLCOPT:program=30510
-http://192.168.0.12:8001/1:0:1:772E:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30663" tvg-logo="http://192.168.0.12/picon/1_0_1_77C7_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C7:40A:1:C00000:0:0:0:" tvg-name="DreamWorks",DreamWorks
-#EXTVLCOPT:program=30663
-http://192.168.0.12:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30403" tvg-logo="http://192.168.0.12/picon/1_0_1_76C3_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C3:40E:1:C00000:0:0:0:" tvg-name="DISNEY CH.",DISNEY CH.
-#EXTVLCOPT:program=30403
-http://192.168.0.12:8001/1:0:1:76C3:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30654" tvg-logo="http://192.168.0.12/picon/1_0_1_77BE_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77BE:40A:1:C00000:0:0:0:" tvg-name="DAZN 3",DAZN 3
-#EXTVLCOPT:program=30654
-http://192.168.0.12:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30656" tvg-logo="http://192.168.0.12/picon/1_0_1_77C0_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C0:40A:1:C00000:0:0:0:" tvg-name="DAZN 4",DAZN 4
-#EXTVLCOPT:program=30656
-http://192.168.0.12:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30611" tvg-logo="http://192.168.0.12/picon/1_0_1_7793_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7793:424:1:C00000:0:0:0:" tvg-name="LALIGATV BAR",LALIGATV BAR
-#EXTVLCOPT:program=30611
-http://192.168.0.12:8001/1:0:1:7793:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="29904" tvg-logo="http://192.168.0.12/picon/1_0_1_74D0_3F8_1_C00000_0_0_0.png" tvg-id="1:0:1:74D0:3F8:1:C00000:0:0:0:" tvg-name="Descarga Cisco",Descarga Cisco
-#EXTVLCOPT:program=29904
-http://192.168.0.12:8001/1:0:1:74D0:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="30353" tvg-logo="http://192.168.0.12/picon/1_0_1_7691_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7691:41E:1:C00000:0:0:0:" tvg-name="TEST Z",TEST Z
-#EXTVLCOPT:program=30353
-http://192.168.0.12:8001/1:0:1:7691:41E:1:C00000:0:0:0:
+http://10.243.223.211:8001/1:0:19:7863:41A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7474_3F0_1_C00000_0_0_0.png",LA 2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7474:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7534:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7535_426_1_C00000_0_0_0.png",CUATRO HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7535:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7536_426_1_C00000_0_0_0.png",TELECINCO HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7536:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7537:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788C_414_1_C00000_0_0_0.png",#0 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:788C:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7508_420_1_C00000_0_0_0.png",#VAMOSHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7508:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76A3_41E_1_C00000_0_0_0.png",MULTIDEPORTE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76A3:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_759E_422_1_C00000_0_0_0.png",BAJO DEMANDA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:759E:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7882_414_1_C00000_0_0_0.png",M. SERIES HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7882:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B6_3EC_1_C00000_0_0_0.png",M.Seriesmania HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7504_420_1_C00000_0_0_0.png",FOX HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7504:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7856:41A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7888_414_1_C00000_0_0_0.png",TNT HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7888:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78C0_3EC_1_C00000_0_0_0.png",COMEDYCENTRALHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7824_428_1_C00000_0_0_0.png",CALLE 13 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7824:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B8_3EC_1_C00000_0_0_0.png",COSMO HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7533_426_1_C00000_0_0_0.png",AMC HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7533:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B5_3EC_1_C00000_0_0_0.png",FOX LIFE HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78BE_3EC_1_C00000_0_0_0.png",AXN WHITE HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7825_428_1_C00000_0_0_0.png",SYFY HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7825:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749D_41C_1_C00000_0_0_0.png",M. Fest
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:749D:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A2_41C_1_C00000_0_0_0.png",MTV ESPAÑA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A2:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:77BC:40A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75FE_408_1_C00000_0_0_0.png",NEOX
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75FE:408:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749F_41C_1_C00000_0_0_0.png",ENERGY
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:749F:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7539_426_1_C00000_0_0_0.png",M.ESTRENOSHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7539:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78BF_3EC_1_C00000_0_0_0.png",M.CineDoc&Roll
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_1_7607_408_1_C00000_0_0_0.png",Disney+
+#EXTVLCOPT:program=30215
+http://10.243.223.211:8001/1:0:1:7607:408:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7509_420_1_C00000_0_0_0.png",M. ACCIÓN HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7509:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7857_41A_1_C00000_0_0_0.png",M.COMEDIA HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7857:41A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750B_420_1_C00000_0_0_0.png",M. DRAMA HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:750B:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7736_416_1_C00000_0_0_0.png",M. Cine Español
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7736:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7885_414_1_C00000_0_0_0.png",TCM HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7885:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750C_420_1_C00000_0_0_0.png",HOLLYWOODHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:750C:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76A5_41E_1_C00000_0_0_0.png",SUNDANCE TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76A5:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75F9_408_1_C00000_0_0_0.png",PARAMOUNT
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75F9:408:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7692_41E_1_C00000_0_0_0.png",MULTIDEPORTE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7692:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750A_420_1_C00000_0_0_0.png",#VAMOSHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:750A:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",M. LaLiga HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:750F:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74FF_420_1_C00000_0_0_0.png",M. LaLiga 1 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:74FF:420:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74CD_3F8_1_C00000_0_0_0.png",M. LaLiga 2 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D3_3F8_1_C00000_0_0_0.png",M. LaLiga 3 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B4_3EC_1_C00000_0_0_0.png",M.LCAMPEONES HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D5_3F8_1_C00000_0_0_0.png",M.LCAMPEON1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74DB_3F8_1_C00000_0_0_0.png",M.LCAMPEON2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7828_428_1_C00000_0_0_0.png",M. DEPORTESHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7828:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7532_426_1_C00000_0_0_0.png",M. DEPORTES1HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7532:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_756D_412_1_C00000_0_0_0.png",M. DEPORTES2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:756D:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7573_412_1_C00000_0_0_0.png",M. DEPORTES3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7573:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7531_426_1_C00000_0_0_0.png",M.FORMULA1HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7531:426:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B7_3EC_1_C00000_0_0_0.png",M. GOLF HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_778E_424_1_C00000_0_0_0.png",#VAMOS BAR
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:778E:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7826_428_1_C00000_0_0_0.png",EUROSPORT1HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7826:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A7_41C_1_C00000_0_0_0.png",EUROSPORT 2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A7:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A3:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76CC_40E_1_C00000_0_0_0.png",TELEDEPORTE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76CC:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788D_414_1_C00000_0_0_0.png",CAZAyPESCA HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:788D:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_746A_3F0_1_C00000_0_0_0.png",IBERALIA TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:746A:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_782D_428_1_C00000_0_0_0.png",TOROS HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:782D:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7798_424_1_C00000_0_0_0.png",R. MADRID TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7798:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A0_41C_1_C00000_0_0_0.png",BARÇA TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A0:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7829_428_1_C00000_0_0_0.png",NAT GEO HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7829:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7889_414_1_C00000_0_0_0.png",NG WILD HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7889:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7731_416_1_C00000_0_0_0.png",HISTORIA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7731:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772F_416_1_C00000_0_0_0.png",DISCOVERY
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:772F:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_778A_424_1_C00000_0_0_0.png",CANAL ODISEA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:778A:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772D_416_1_C00000_0_0_0.png",BLAZE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:772D:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7884_414_1_C00000_0_0_0.png",VIAJAR HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7884:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7732_416_1_C00000_0_0_0.png",CRIMEN+INVES
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7732:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76CE_40E_1_C00000_0_0_0.png",CANAL COCINA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76CE:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7795_424_1_C00000_0_0_0.png",CANAL DECASA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7795:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749A_41C_1_C00000_0_0_0.png",DIVINITY
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:749A:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7469_3F0_1_C00000_0_0_0.png",NOVA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7469:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A8_41C_1_C00000_0_0_0.png",BE MAD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A8:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76A4_41E_1_C00000_0_0_0.png",CANAL ORBE21
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76A4:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749C_41C_1_C00000_0_0_0.png",BABY TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:749C:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_746B_3F0_1_C00000_0_0_0.png",DISNEY JR
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:746B:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C4_40E_1_C00000_0_0_0.png",CANAL PANDA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C4:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7697_41E_1_C00000_0_0_0.png",NICK JR
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7697:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7820_428_1_C00000_0_0_0.png",NICKELODEONHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7820:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788B_414_1_C00000_0_0_0.png",DISNEY CH HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:788B:414:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749E_41C_1_C00000_0_0_0.png",BOING
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:749E:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C1_40E_1_C00000_0_0_0.png",CLAN TVE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C1:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_6FF0_436_1_C00000_0_0_0.png",VH1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:6FF0:436:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7699_41E_1_C00000_0_0_0.png",MEZZO
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7699:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7823_428_1_C00000_0_0_0.png",MEZZO LIVE HD
+##EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7823:428:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7602_408_1_C00000_0_0_0.png",CLASSICA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7602:408:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7596_422_1_C00000_0_0_0.png",RADIOS
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7596:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_778B_424_1_C00000_0_0_0.png",PLAYBOY TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:778B:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7738_416_1_C00000_0_0_0.png",24 HORAS
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7738:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1389_3EA_1_C00000_0_0_0.png",BBC World News Europe HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1389:3EA:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1146_404_1_C00000_0_0_0.png",CNN Int.
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1146:404:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749B_41C_1_C00000_0_0_0.png",FOX NEWS
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:749B:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_79F4_443_1_C00000_0_0_0.png",EURONEWS FRENCH SD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:79F4:443:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1158_404_1_C00000_0_0_0.png",Al Jazeera English
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1158:404:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1AFA_3FE_1_C00000_0_0_0.png",France 24 (in English)
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1AFA:3FE:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_18F8_3F4_1_C00000_0_0_0.png",RT Esp HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:18F8:3F4:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_272E_402_1_C00000_0_0_0.png",CNBC Europe
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:272E:402:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1B03_3FE_1_C00000_0_0_0.png",TV5MONDE EUROPE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1B03:3FE:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_2753_402_1_C00000_0_0_0.png",Bloomberg Europe TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:2753:402:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1C7A_457_1_C00000_0_0_0.png",Sky News Intl
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1C7A:457:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_18EE_3F4_1_C00000_0_0_0.png",RT Esp HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:18EE:3F4:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_18EF_3F4_1_C00000_0_0_0.png",RT France HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:18EF:3F4:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_283E_3FB_1_C00000_0_0_0.png",arte HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:283E:3FB:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1AF9_3FE_1_C00000_0_0_0.png",France 24 (en Français)
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1AF9:3FE:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7A45_410_1_C00000_0_0_0.png",TV Record SD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7A45:410:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1B60_3FC_1_C00000_0_0_0.png",Cubavision Internacional
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1B60:3FC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_18EC_3F4_1_C00000_0_0_0.png",TELESUR HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:18EC:3F4:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_139D_3EA_1_C00000_0_0_0.png",NHK WORLD-JPN
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:139D:3EA:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_1B63_3FC_1_C00000_0_0_0.png",Arirang TV
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:1B63:3FC:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",LALIGATV BAR
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7859:41A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C5_40E_1_C00000_0_0_0.png",LALIGATVBAR1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C5:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_769A_41E_1_C00000_0_0_0.png",LALIGATVBAR2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:769A:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7574_412_1_C00000_0_0_0.png",LALIGATVBAR3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7574:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7582_412_1_C00000_0_0_0.png",LALIGATVBAR4
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7582:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7729_416_1_C00000_0_0_0.png",CANAL SUR A.
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7729:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_18F1_3F4_1_C00000_0_0_0.png",TVGA HD EUROPA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:18F1:3F4:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_18F0_3F4_1_C00000_0_0_0.png",EXTREMADURA SAT
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:18F0:3F4:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7473_3F0_1_C00000_0_0_0.png",ARAGON TV INT
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7473:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_2760_402_1_C00000_0_0_0.png",Sonlife Broadcasting Network
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:2760:402:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75B0_422_1_C00000_0_0_0.png",ALQUILER
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75B0:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILER 1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:768E:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768F_41E_1_C00000_0_0_0.png",ALQUILER 2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:768F:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7567_412_1_C00000_0_0_0.png",ALQUILER 3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7567:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_756F_412_1_C00000_0_0_0.png",ALQUILER 4
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:756F:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7565_412_1_C00000_0_0_0.png",ALQUILER 5
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7565:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7566_412_1_C00000_0_0_0.png",ALQUILER 6
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7566:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7854_41A_1_C00000_0_0_0.png",ALQUILER HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7854:41A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_785E_41A_1_C00000_0_0_0.png",ALQUILER 2 HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:785E:41A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7568_412_1_C00000_0_0_0.png",ALQUILER X
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7568:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7569_412_1_C00000_0_0_0.png",ALQUILER XX
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7569:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_756A_412_1_C00000_0_0_0.png",ALQ XXHARD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:756A:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7562_412_1_C00000_0_0_0.png",MULTI-X
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7562:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7695_41E_1_C00000_0_0_0.png",ALQUILER XY
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7695:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7571_412_1_C00000_0_0_0.png",MULTI-X (1)
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7571:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7563_412_1_C00000_0_0_0.png",MULTI-X (2)
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7563:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7572_412_1_C00000_0_0_0.png",MULTI-X (3)
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7572:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_769B_41E_1_C00000_0_0_0.png",M. LaLiga 4
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:769B:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7579_412_1_C00000_0_0_0.png",M. LaLiga 5
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7579:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_757E_412_1_C00000_0_0_0.png",M. LaLiga 6
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:757E:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_756E_412_1_C00000_0_0_0.png",M. LaLiga 7
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:756E:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7690_41E_1_C00000_0_0_0.png",M. LaLiga 8
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7690:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7581_412_1_C00000_0_0_0.png",M. LaLiga 9
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7581:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7578_412_1_C00000_0_0_0.png",M. LaLiga 10
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7578:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_757F_412_1_C00000_0_0_0.png",M.LCAMPEON3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:757F:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_769D_41E_1_C00000_0_0_0.png",M.LCAMPEON4
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:769D:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_757D_412_1_C00000_0_0_0.png",M.LCAMPEON5
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:757D:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_757C_412_1_C00000_0_0_0.png",M.LCAMPEON6
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:757C:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7583_412_1_C00000_0_0_0.png",M.LCAMPEON7
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7583:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7576_412_1_C00000_0_0_0.png",M.LCAMPEON8
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7576:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7575_412_1_C00000_0_0_0.png",M. DEPORTES4
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7575:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7577_412_1_C00000_0_0_0.png",M. DEPORTES5
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7577:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_769E_41E_1_C00000_0_0_0.png",M. DEPORTES6
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:769E:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7693_41E_1_C00000_0_0_0.png",M. DEPORTES7
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7693:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_756C_412_1_C00000_0_0_0.png",#VAMOS BAR1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:756C:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7584_412_1_C00000_0_0_0.png",#VAMOS BAR2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7584:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_759C_422_1_C00000_0_0_0.png",PORTADA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:759C:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75A9_422_1_C00000_0_0_0.png",GUÍA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75A9:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C2_40E_1_C00000_0_0_0.png",LA 1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C2:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772C_416_1_C00000_0_0_0.png",ANTENA 3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:772C:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7792_424_1_C00000_0_0_0.png",CUATRO
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7792:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_778C_424_1_C00000_0_0_0.png",TELECINCO
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:778C:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A6_41C_1_C00000_0_0_0.png",LA SEXTA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A6:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7478_3F0_1_C00000_0_0_0.png",#0
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7478:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7696_41E_1_C00000_0_0_0.png",M. SERIES
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7696:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76CA_40E_1_C00000_0_0_0.png",M. SERIESMANIA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76CA:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_746F_3F0_1_C00000_0_0_0.png",FOX
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:746F:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7477_3F0_1_C00000_0_0_0.png",AXN
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7477:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/11_0_1_76CB_40E_1_C00000_0_0_0.png",TNT
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76CB:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C8_40E_1_C00000_0_0_0.png",COMEDY CENTRAL
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C8:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7790_424_1_C00000_0_0_0.png",CALLE 13
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7790:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7730_416_1_C00000_0_0_0.png",COSMO
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7730:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7468_3F0_1_C00000_0_0_0.png",FOX LIFE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7468:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7471_3F0_1_C00000_0_0_0.png",AXN WHITE
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7471:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7796_424_1_C00000_0_0_0.png",SYFY
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7796:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C0_40E_1_C00000_0_0_0.png",M. ESTRENOS
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C0:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_77C6_40A_1_C00000_0_0_0.png",M.CineDoc&Roll
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:77C6:40A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_746C_3F0_1_C00000_0_0_0.png",M. ACCIÓN
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:746C:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_746D_3F0_1_C00000_0_0_0.png",M. COMEDIA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:746D:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_746E_3F0_1_C00000_0_0_0.png",M. DRAMA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:746E:3F0:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C7_40E_1_C00000_0_0_0.png",TCM
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C7:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_77C1_40A_1_C00000_0_0_0.png",HOLLYWOOD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:77C1:40A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_778F_424_1_C00000_0_0_0.png",M. DEPORTES
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:778F:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7734_416_1_C00000_0_0_0.png",#VAMOS
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7734:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A4_41C_1_C00000_0_0_0.png",M.FORMULA1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A4:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7789_424_1_C00000_0_0_0.png",M. GOLF
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7789:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7570_412_1_C00000_0_0_0.png",TOROS
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7570:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_778D_424_1_C00000_0_0_0.png",NAT GEOGRAPH
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:778D:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_77D8_40A_1_C00000_0_0_0.png",NAT GEO WILD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:77D8:40A:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C9_40E_1_C00000_0_0_0.png",VIAJAR
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C9:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772E_416_1_C00000_0_0_0.png",NICKELODEON
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:772E:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76C3_40E_1_C00000_0_0_0.png",DISNEY CH.
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76C3:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_47E_410_1_C00000_0_0_0.png",RT Esp
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:47E:410:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76CF_40E_1_C00000_0_0_0.png",AMC
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76CF:40E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7797_424_1_C00000_0_0_0.png",M. LaLiga
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7797:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_757A_412_1_C00000_0_0_0.png",M.LCAMPEON1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:757A:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_769F_41E_1_C00000_0_0_0.png",M.LCAMPEON2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:769F:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75DD_422_1_C00000_0_0_0.png",TEST TÉCNICO
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75DD:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A1_41C_1_C00000_0_0_0.png",EUROSPORT 1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:74A1:41C:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772B_416_1_C00000_0_0_0.png",CAZA Y PESCA
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:772B:416:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_756B_412_1_C00000_0_0_0.png",M. LaLiga 1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:756B:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7580_412_1_C00000_0_0_0.png",M. LaLiga 2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7580:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_769C_41E_1_C00000_0_0_0.png",M. LaLiga 3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:769C:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75D9_422_1_C00000_0_0_0.png",CONTRATO
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75D9:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75F6_422_1_C00000_0_0_0.png",GUÍA FÁCIL
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75F6:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_757B_412_1_C00000_0_0_0.png",M.LCAMPEONES
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:757B:412:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7793_424_1_C00000_0_0_0.png",LALIGATV BAR
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:7793:424:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_76A7_41E_1_C00000_0_0_0.png",TEST F1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:76A7:41E:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75E2_422_1_C00000_0_0_0.png",TEST_CSD5
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1:75E2:422:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_2B66_3F3_1_C00000_0_0_0.png",ZDF HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:2B66:3F3:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_1332_3EF_1_C00000_0_0_0.png",ServusTV HD Deutschland
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:1332:3EF:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_1331_3EF_1_C00000_0_0_0.png",Servus TV HD Österreich
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:1331:3EF:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn1.png",DAZN 1 ( aleman )
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:84:9:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn2.png",DAZN 2 ( aleman )
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:7A:10:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_81_6_85_C00000_0_0_0.png",Sky Sport HD 1 
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:81:6:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_72_D_85_C00000_0_0_0.png",Sky Sport HD 2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:72:D:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_8F_9_85_C00000_0_0_0.png",Sky Sport Austria HD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:8F:9:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_69_C_85_C00000_0_0_0.png",Sky Bundesliga HD 1
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:69:C:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_10B_6_85_C00000_0_0_0.png",Sky Bundesliga HD 2
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:10B:6:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_115_D_85_C00000_0_0_0.png",Sky Bundesliga HD 3
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:115:D:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_11F_C_85_C00000_0_0_0.png",Sky Bundesliga HD 4
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:19:11F:C:85:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_1F_307A_3F5_1_C00000_0_0_0.png",RTL UHD
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1F:307A:3F5:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_1F_2_40B_1_C00000_0_0_0.png",UHD1 by ASTRA / HD+
+#EXTVLCOPT--http-reconnect=true
+http://10.243.223.211:8001/1:0:1F:2:40B:1:C00000:0:0:0:?bitrate=1000000?width=1024?height=768?vcodec=h265?aspectratio=2?interlaced=0
