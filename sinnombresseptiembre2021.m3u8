@@ -135,113 +135,77 @@ http://10.243.223.211:8001/1:0:19:7889:414:1:C00000:0:0:?bitrate=500000?width=12
 http://10.243.223.211:8001/1:0:1:7731:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
 #EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_772F_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772F:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DISCOVERY",DISCOVERY
 http://10.243.223.211:8001/1:0:1:772F:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30602" tvg-logo="http://10.243.223.211/picon/1_0_1_778A_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778A:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL ODISEA",CANAL ODISEA
-#EXTVLCOPT:program=30602
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_778A_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778A:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL ODISEA",CANAL ODISEA
 http://10.243.223.211:8001/1:0:1:778A:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30509" tvg-logo="http://10.243.223.211/picon/1_0_1_772D_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772D:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BLAZE",BLAZE
-#EXTVLCOPT:program=30509
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_772D_416_1_C00000_0_0_0.png" tvg-id="1:0:1:772D:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BLAZE",BLAZE
 http://10.243.223.211:8001/1:0:1:772D:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30852" tvg-logo="http://10.243.223.211/picon/1_0_19_7884_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7884:414:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="VIAJAR HD",VIAJAR HD
-#EXTVLCOPT:program=30852
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_7884_414_1_C00000_0_0_0.png" tvg-id="1:0:19:7884:414:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="VIAJAR HD",VIAJAR HD
 http://10.243.223.211:8001/1:0:19:7884:414:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30514" tvg-logo="http://10.243.223.211/picon/1_0_1_7732_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7732:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CRIMEN+INVES",CRIMEN+INVES
-#EXTVLCOPT:program=30514
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7732_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7732:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CRIMEN+INVES",CRIMEN+INVES
 http://10.243.223.211:8001/1:0:1:7732:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30613" tvg-logo="http://10.243.223.211/picon/1_0_1_7795_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7795:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL DECASA",CANAL DECASA
-#EXTVLCOPT:program=30613
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7795_424_1_C00000_0_0_0.png" tvg-id="1:0:1:7795:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL DECASA",CANAL DECASA
 http://10.243.223.211:8001/1:0:1:7795:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30414" tvg-logo="http://10.243.223.211/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CE:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL COCINA",CANAL COCINA
-#EXTVLCOPT:program=30414
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76CE:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL COCINA",CANAL COCINA
 http://10.243.223.211:8001/1:0:1:76CE:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29850" tvg-logo="http://10.243.223.211/picon/1_0_1_749A_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749A:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DIVINITY",DIVINITY
-#EXTVLCOPT:program=29850
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_749A_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749A:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DIVINITY",DIVINITY
 http://10.243.223.211:8001/1:0:1:749A:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29801" tvg-logo="http://10.243.223.211/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7469:3F0:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="NOVA",NOVA
-#EXTVLCOPT:program=29801
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:7469:3F0:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="NOVA",NOVA
 http://10.243.223.211:8001/1:0:1:7469:3F0:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29864" tvg-logo="http://10.243.223.211/picon/1_0_1_74A8_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A8:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BE MAD",BE MAD
-#EXTVLCOPT:program=29864
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_74A8_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:74A8:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BE MAD",BE MAD
 http://10.243.223.211:8001/1:0:1:74A8:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29852" tvg-logo="http://10.243.223.211/picon/1_0_1_749C_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749C:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BabyTV",BabyTV
-#EXTVLCOPT:program=29852
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_749C_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749C:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BabyTV",BabyTV
 http://10.243.223.211:8001/1:0:1:749C:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29803" tvg-logo="http://10.243.223.211/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746B:3F0:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DISNEY JR",DISNEY JR
-#EXTVLCOPT:program=29803
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png" tvg-id="1:0:1:746B:3F0:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DISNEY JR",DISNEY JR
 http://10.243.223.211:8001/1:0:1:746B:3F0:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30404" tvg-logo="http://10.243.223.211/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C4:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL PANDA",CANAL PANDA
-#EXTVLCOPT:program=30404
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C4:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CANAL PANDA",CANAL PANDA
 http://10.243.223.211:8001/1:0:1:76C4:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30359" tvg-logo="http://10.243.223.211/picon/1_0_1_7697_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7697:41E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="NICK JR",NICK JR
-#EXTVLCOPT:program=30359
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7697_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7697:41E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="NICK JR",NICK JR
 http://10.243.223.211:8001/1:0:1:7697:41E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30752" tvg-logo="http://10.243.223.211/picon/1_0_19_7820_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7820:428:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="NICKELODEONHD",NICKELODEONHD
-#EXTVLCOPT:program=30752
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_7820_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7820:428:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="NICKELODEONHD",NICKELODEONHD
 http://10.243.223.211:8001/1:0:19:7820:428:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29965" tvg-logo="http://10.243.223.211/picon/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750D:420:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DreamWorks HD",DreamWorks HD
-#EXTVLCOPT:program=29965
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="1:0:19:750D:420:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DreamWorks HD",DreamWorks HD
 http://10.243.223.211:8001/1:0:19:750D:420:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30859" tvg-logo="http://10.243.223.211/picon/1_0_19_788B_414_1_C00000_0_0_0.png" tvg-id="1:0:19:788B:414:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DISNEY CH HD",DISNEY CH HD
-#EXTVLCOPT:program=30859
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_788B_414_1_C00000_0_0_0.png" tvg-id="1:0:19:788B:414:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="DISNEY CH HD",DISNEY CH HD
 http://10.243.223.211:8001/1:0:19:788B:414:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29854" tvg-logo="http://10.243.223.211/picon/1_0_1_749E_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749E:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BOING",BOING
-#EXTVLCOPT:program=29854
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_749E_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749E:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BOING",BOING
 http://10.243.223.211:8001/1:0:1:749E:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30401" tvg-logo="http://10.243.223.211/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C1:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CLAN TVE",CLAN TVE
-#EXTVLCOPT:program=30401
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png" tvg-id="1:0:1:76C1:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CLAN TVE",CLAN TVE
 http://10.243.223.211:8001/1:0:1:76C1:40E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="28656" tvg-logo="http://10.243.223.211/picon/1_0_1_6FF0_436_1_C00000_0_0_0.png" tvg-id="1:0:1:6FF0:436:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="MTV 00s",MTV 00s
-#EXTVLCOPT:program=28656
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_6FF0_436_1_C00000_0_0_0.png" tvg-id="1:0:1:6FF0:436:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="MTV 00s",MTV 00s
 http://10.243.223.211:8001/1:0:1:6FF0:436:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30361" tvg-logo="http://10.243.223.211/picon/1_0_1_7699_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7699:41E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="MEZZO",MEZZO
-#EXTVLCOPT:program=30361
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7699_41E_1_C00000_0_0_0.png" tvg-id="1:0:1:7699:41E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="MEZZO",MEZZO
 http://10.243.223.211:8001/1:0:1:7699:41E:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30755" tvg-logo="http://10.243.223.211/picon/1_0_19_7823_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7823:428:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="MEZZO LIVE HD",MEZZO LIVE HD
-#EXTVLCOPT:program=30755
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_7823_428_1_C00000_0_0_0.png" tvg-id="1:0:19:7823:428:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="MEZZO LIVE HD",MEZZO LIVE HD
 http://10.243.223.211:8001/1:0:19:7823:428:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30071" tvg-logo="http://10.243.223.211/picon/1_0_1_7577_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7577:412:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CLASSICA",CLASSICA
-#EXTVLCOPT:program=30071
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7577_412_1_C00000_0_0_0.png" tvg-id="1:0:1:7577:412:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CLASSICA",CLASSICA
 http://10.243.223.211:8001/1:0:1:7577:412:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30102" tvg-logo="http://10.243.223.211/picon/1_0_1_7596_422_1_C00000_0_0_0.png" tvg-id="1:0:1:7596:422:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="RADIOS",RADIOS
-#EXTVLCOPT:program=30102
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7596_422_1_C00000_0_0_0.png" tvg-id="1:0:1:7596:422:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="RADIOS",RADIOS
 http://10.243.223.211:8001/1:0:1:7596:422:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30603" tvg-logo="http://10.243.223.211/picon/1_0_1_778B_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778B:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="PLAYBOY TV",PLAYBOY TV
-#EXTVLCOPT:program=30603
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_778B_424_1_C00000_0_0_0.png" tvg-id="1:0:1:778B:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="PLAYBOY TV",PLAYBOY TV
 http://10.243.223.211:8001/1:0:1:778B:424:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="30520" tvg-logo="http://10.243.223.211/picon/1_0_1_7738_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7738:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="24 HORAS",24 HORAS
-#EXTVLCOPT:program=30520
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7738_416_1_C00000_0_0_0.png" tvg-id="1:0:1:7738:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="24 HORAS",24 HORAS
 http://10.243.223.211:8001/1:0:1:7738:416:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="5001" tvg-logo="http://10.243.223.211/picon/1_0_1_1389_3EA_1_C00000_0_0_0.png" tvg-id="1:0:1:1389:3EA:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BBC World News Europe HD",BBC World News Europe HD
-#EXTVLCOPT:program=5001
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_1389_3EA_1_C00000_0_0_0.png" tvg-id="1:0:1:1389:3EA:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="BBC World News Europe HD",BBC World News Europe HD
 http://10.243.223.211:8001/1:0:1:1389:3EA:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="4422" tvg-logo="http://10.243.223.211/picon/1_0_1_1146_404_1_C00000_0_0_0.png" tvg-id="1:0:1:1146:404:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CNN Int.",CNN Int.
-#EXTVLCOPT:program=4422
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_1146_404_1_C00000_0_0_0.png" tvg-id="1:0:1:1146:404:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CNN Int.",CNN Int.
 http://10.243.223.211:8001/1:0:1:1146:404:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="29851" tvg-logo="http://10.243.223.211/picon/1_0_1_749B_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749B:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="FOX NEWS",FOX NEWS
-#EXTVLCOPT:program=29851
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_749B_41C_1_C00000_0_0_0.png" tvg-id="1:0:1:749B:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="FOX NEWS",FOX NEWS
 http://10.243.223.211:8001/1:0:1:749B:41C:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="31220" tvg-logo="http://10.243.223.211/picon/1_0_1_79F4_443_1_C00000_0_0_0.png" tvg-id="1:0:1:79F4:443:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="EURONEWS FRENCH SD",EURONEWS FRENCH SD
-#EXTVLCOPT:program=31220
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_79F4_443_1_C00000_0_0_0.png" tvg-id="1:0:1:79F4:443:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="EURONEWS FRENCH SD",EURONEWS FRENCH SD
 http://10.243.223.211:8001/1:0:1:79F4:443:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="5031" tvg-logo="http://10.243.223.211/picon/1_0_19_13A7_3EA_1_C00000_0_0_0.png" tvg-id="1:0:19:13A7:3EA:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="Al Jazeera English HD",Al Jazeera English HD
-#EXTVLCOPT:program=5031
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_13A7_3EA_1_C00000_0_0_0.png" tvg-id="1:0:19:13A7:3EA:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="Al Jazeera English HD",Al Jazeera English HD
 http://10.243.223.211:8001/1:0:19:13A7:3EA:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="6906" tvg-logo="http://10.243.223.211/picon/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1AFA:3FE:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="France 24 (In English)",France 24 (In English)
-#EXTVLCOPT:program=6906
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1AFA:3FE:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="France 24 (In English)",France 24 (In English)
 http://10.243.223.211:8001/1:0:1:1AFA:3FE:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="6392" tvg-logo="http://10.243.223.211/picon/1_0_1_18F8_3F4_1_C00000_0_0_0.png" tvg-id="1:0:1:18F8:3F4:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="RT Esp HD",RT Esp HD
-#EXTVLCOPT:program=6392
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_18F8_3F4_1_C00000_0_0_0.png" tvg-id="1:0:1:18F8:3F4:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="RT Esp HD",RT Esp HD
 http://10.243.223.211:8001/1:0:1:18F8:3F4:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="125" tvg-logo="http://10.243.223.211/images/default_picon.png" tvg-id="1:0:19:7D:8:85:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CNBC HD",CNBC HD
-#EXTVLCOPT:program=125
+#EXTINF:-1 tvg-logo="http://10.243.223.211/images/default_picon.png" tvg-id="1:0:19:7D:8:85:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="CNBC HD",CNBC HD
 http://10.243.223.211:8001/1:0:19:7D:8:85:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="6915" tvg-logo="http://10.243.223.211/picon/1_0_1_1B03_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1B03:3FE:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="TV5MONDE EUROPE HD",TV5MONDE EUROPE HD
-#EXTVLCOPT:program=6915
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_1B03_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1B03:3FE:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="TV5MONDE EUROPE HD",TV5MONDE EUROPE HD
 http://10.243.223.211:8001/1:0:1:1B03:3FE:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="10067" tvg-logo="http://10.243.223.211/picon/1_0_1_2753_402_1_C00000_0_0_0.png" tvg-id="1:0:1:2753:402:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="Bloomberg Europe TV",Bloomberg Europe TV
-#EXTVLCOPT:program=10067
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_2753_402_1_C00000_0_0_0.png" tvg-id="1:0:1:2753:402:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="Bloomberg Europe TV",Bloomberg Europe TV
 http://10.243.223.211:8001/1:0:1:2753:402:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 tvg-chno="7290" tvg-logo="http://10.243.223.211/picon/1_0_1_1C7A_457_1_C00000_0_0_0.png" tvg-id="1:0:1:1C7A:457:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="Sky News Intl",Sky News Intl
-#EXTVLCOPT:program=7290
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_1C7A_457_1_C00000_0_0_0.png" tvg-id="1:0:1:1C7A:457:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="Sky News Intl",Sky News Intl
 http://10.243.223.211:8001/1:0:1:1C7A:457:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
 #EXTINF:-1 tvg-chno="6382" tvg-logo="http://10.243.223.211/picon/1_0_1_18EE_3F4_1_C00000_0_0_0.png" tvg-id="1:0:1:18EE:3F4:1:C00000:0:0:?bitrate=500000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="RT Esp HD",RT Esp HD
 #EXTVLCOPT:program=6382
