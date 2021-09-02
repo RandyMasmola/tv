@@ -213,7 +213,7 @@ http://10.243.223.211:8001/1:0:1:18EE:3F4:1:C00000:0:0:?bitrate=350000?width=128
 http://10.243.223.211:8001/1:0:1:18EF:3F4:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
 #EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_19_283E_3FB_1_C00000_0_0_0.png" tvg-id="1:0:19:283E:3FB:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="arte HD",arte HD
 http://10.243.223.211:8001/1:0:19:283E:3FB:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
-#EXTINF:-1 ttvg-logo="http://10.243.223.211/picon/1_0_1_7A4B_410_1_C00000_0_0_0.png" tvg-id="1:0:1:7A4B:410:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="I24 Francis",I24 Francis
+#EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_7A4B_410_1_C00000_0_0_0.png" tvg-id="1:0:1:7A4B:410:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="I24 Francis",I24 Francis
 http://10.243.223.211:8001/1:0:1:7A4B:410:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
 #EXTINF:-1 tvg-logo="http://10.243.223.211/picon/1_0_1_1AF9_3FE_1_C00000_0_0_0.png" tvg-id="1:0:1:1AF9:3FE:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:" tvg-name="France 24 (en Francais)",France 24 (en Francais)
 http://10.243.223.211:8001/1:0:1:1AF9:3FE:1:C00000:0:0:?bitrate=350000?width=1280?height=720?vcodec=h265?aspectratio=2?interlaced=00:
