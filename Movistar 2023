@@ -1,134 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title=" ES 01 MOVISTAR+",ES: LA 1 FHD
+http://86459492047321276.nicesjb.xyz:80/play/ja919164/7945667668/321276.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title=" ES 01 MOVISTAR+",ES: LA 1 HD
 http://86459492047321277.nicesjb.xyz:80/play/ja919164/7945667668/321277.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title=" ES 01 MOVISTAR+",ES: LA 1 SD
+http://86459492047321278.nicesjb.xyz:80/play/ja919164/7945667668/321278.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title=" ES 01 MOVISTAR+",ES: LA 2 FHD
+http://86459492047321279.nicesjb.xyz:80/play/ja919164/7945667668/321279.ts
 #EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title=" ES 01 MOVISTAR+",ES: LA 2 HD
 http://86459492047321280.nicesjb.xyz:80/play/ja919164/7945667668/321280.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title=" ES 01 MOVISTAR+",ES: LA 2 SD
+http://86459492047321281.nicesjb.xyz:80/play/ja919164/7945667668/321281.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title=" ES 01 MOVISTAR+",ES: ANTENA 3 FHD
+http://86459492047321105.nicesjb.xyz:80/play/ja919164/7945667668/321105.ts
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title=" ES 01 MOVISTAR+",ES: ANTENA 3 HD
 http://86459492047321106.nicesjb.xyz:80/play/ja919164/7945667668/321106.ts
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title=" ES 01 MOVISTAR+",ES: CUATRO HD
-http://86459492047321197.nicesjb.xyz:80/play/ja919164/7945667668/321197.ts
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title=" ES 01 MOVISTAR+",ES: ANTENA 3 SD
+http://86459492047321107.nicesjb.xyz:80/play/ja919164/7945667668/321107.ts
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title=" ES 01 MOVISTAR+",ES: TELECINCO FHD
+http://86459492047321429.nicesjb.xyz:80/play/ja919164/7945667668/321429.ts
 #EXTINF:-1 tvg-id="ANTV TDT HD 2.sp" tvg-name="ES: TELECINCO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title=" ES 01 MOVISTAR+",ES: TELECINCO HD
 http://86459492047321430.nicesjb.xyz:80/play/ja919164/7945667668/321430.ts
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title=" ES 01 MOVISTAR+",ES: LA SEXTA HD
-http://86459492047321289.nicesjb.xyz:80/play/ja919164/7945667668/321289.ts
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title=" ES 01 MOVISTAR+",ES: #0 HD
-http://86459492047321069.nicesjb.xyz:80/play/ja919164/7945667668/321069.ts
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title=" ES 01 MOVISTAR+",ES: #VAMOS HD
-http://86459492047321072.nicesjb.xyz:80/play/ja919164/7945667668/321072.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/big_345.png" group-title=" ES 01 MOVISTAR+",ES: LA RESISTENCIA HD
-http://86459492047321286.nicesjb.xyz:80/play/ja919164/7945667668/321286.ts
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://miguia.tv/channels/big_274.png" group-title=" ES 01 MOVISTAR+",ES: M+ ESTRENOS HD
-http://86459492047321338.nicesjb.xyz:80/play/ja919164/7945667668/321338.ts
-#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: M+ ESTRENOS 2 FHD" tvg-logo="https://miguia.tv/channels/big_338.png" group-title=" ES 01 MOVISTAR+",ES: M+ ESTRENOS 2 FHD
-http://86459492047321334.nicesjb.xyz:80/play/ja919164/7945667668/321334.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLASICOS HD" tvg-logo="https://miguia.tv/channels/big_342.png" group-title=" ES 01 MOVISTAR+",ES: M+ CLASICOS HD
-http://86459492047321315.nicesjb.xyz:80/play/ja919164/7945667668/321315.ts
-#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="ES: M+ ACCION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title=" ES 01 MOVISTAR+",ES: M+ ACCION HD
-http://86459492047321306.nicesjb.xyz:80/play/ja919164/7945667668/321306.ts
-#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="ES: M+ COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" group-title=" ES 01 MOVISTAR+",ES: M+ COMEDIA HD
-http://86459492047321318.nicesjb.xyz:80/play/ja919164/7945667668/321318.ts
-#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" group-title=" ES 01 MOVISTAR+",ES: M+ DRAMA HD
-http://86459492047321332.nicesjb.xyz:80/play/ja919164/7945667668/321332.ts
-#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="ES: M+ CINE ESPAÑOL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCESP" group-title=" ES 01 MOVISTAR+",ES: M+ CINE ESPAÑOL HD
-http://86459492047339771.nicesjb.xyz:80/play/ja919164/7945667668/339771.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ FEST HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png" group-title=" ES 01 MOVISTAR+",ES: M+ FEST HD
-http://86459492047321341.nicesjb.xyz:80/play/ja919164/7945667668/321341.ts
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title=" ES 01 MOVISTAR+",ES: TCM HD
-http://86459492047321426.nicesjb.xyz:80/play/ja919164/7945667668/321426.ts
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: CANAL HOLLYWOOD HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png" group-title=" ES 01 MOVISTAR+",ES: CANAL HOLLYWOOD HD
-http://86459492047339740.nicesjb.xyz:80/play/ja919164/7945667668/339740.ts
-#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM SD" tvg-logo="https://miguia.tv/channels/big_213.png" group-title=" ES 01 MOVISTAR+",ES: XTRM SD
-http://86459492047321478.nicesjb.xyz:80/play/ja919164/7945667668/321478.ts
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE HD" tvg-logo="https://miguia.tv/channels/big_194.png" group-title=" ES 01 MOVISTAR+",ES: SUNDANCE HD
-http://86459492047321419.nicesjb.xyz:80/play/ja919164/7945667668/321419.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT NETWORK HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: PARAMOUNT NETWORK HD
-http://86459492047343873.nicesjb.xyz:80/play/ja919164/7945667668/343873.ts
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="ES: M+ SERIES HD" tvg-logo="https://miguia.tv/channels/big_273.png" group-title=" ES 01 MOVISTAR+",ES: M+ SERIES HD
-http://86459492047321348.nicesjb.xyz:80/play/ja919164/7945667668/321348.ts
-#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="ES: M+ SERIES 2 HD" tvg-logo="https://miguia.tv/channels/big_230.png" group-title=" ES 01 MOVISTAR+",ES: M+ SERIES 2 HD
-http://86459492047321345.nicesjb.xyz:80/play/ja919164/7945667668/321345.ts
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES: FOX HD" tvg-logo="https://miguia.tv/channels/big_45.png" group-title=" ES 01 MOVISTAR+",ES: FOX HD
-http://86459492047321252.nicesjb.xyz:80/play/ja919164/7945667668/321252.ts
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title=" ES 01 MOVISTAR+",ES: AXN HD
-http://86459492047321119.nicesjb.xyz:80/play/ja919164/7945667668/321119.ts
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="ES: TNT HD" tvg-logo="https://miguia.tv/channels/big_150.png" group-title=" ES 01 MOVISTAR+",ES: TNT HD
-http://86459492047321443.nicesjb.xyz:80/play/ja919164/7945667668/321443.ts
-#EXTINF:-1 tvg-id="Dark" tvg-name="ES: DARK RED HD" tvg-logo="http://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title=" ES 01 MOVISTAR+",ES: DARK RED HD
-http://86459492047321201.nicesjb.xyz:80/play/ja919164/7945667668/321201.ts
-#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://miguia.tv/channels/big_134.png" group-title=" ES 01 MOVISTAR+",ES: COMEDY CENTRAL HD
-http://86459492047321184.nicesjb.xyz:80/play/ja919164/7945667668/321184.ts
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="https://miguia.tv/channels/big_21.png" group-title=" ES 01 MOVISTAR+",ES: CALLE 13 HD
-http://86459492047321139.nicesjb.xyz:80/play/ja919164/7945667668/321139.ts
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ES: COSMO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/COSMO" group-title=" ES 01 MOVISTAR+",ES: COSMO HD
-http://86459492047321188.nicesjb.xyz:80/play/ja919164/7945667668/321188.ts
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: AMC BREAK HD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title=" ES 01 MOVISTAR+",ES: AMC BREAK HD
-http://86459492047336284.nicesjb.xyz:80/play/ja919164/7945667668/336284.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title=" ES 01 MOVISTAR+",ES: AMC HD
-http://86459492047321103.nicesjb.xyz:80/play/ja919164/7945667668/321103.ts
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="ES: AXN WHITE HD" tvg-logo="https://miguia.tv/channels/big_143.png" group-title=" ES 01 MOVISTAR+",ES: AXN WHITE HD
-http://86459492047321116.nicesjb.xyz:80/play/ja919164/7945667668/321116.ts
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="ES: SYFY HD" tvg-logo="https://miguia.tv/channels/big_141.png" group-title=" ES 01 MOVISTAR+",ES: SYFY HD
-http://86459492047321423.nicesjb.xyz:80/play/ja919164/7945667668/321423.ts
-#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ENERGY" group-title=" ES 01 MOVISTAR+",ES: ENERGY HD
-http://86459492047321237.nicesjb.xyz:80/play/ja919164/7945667668/321237.ts
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title=" ES 01 MOVISTAR+",ES: FDF HD
-http://86459492047321248.nicesjb.xyz:80/play/ja919164/7945667668/321248.ts
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title=" ES 01 MOVISTAR+",ES: #VAMOS HD
-http://86459492047321072.nicesjb.xyz:80/play/ja919164/7945667668/321072.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: ELLAS #V HD
-http://86459492047321234.nicesjb.xyz:80/play/ja919164/7945667668/321234.ts
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA HD
-http://86459492047165392.nicesjb.xyz:80/play/ja919164/7945667668/165392.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES 08 DAZN LALIGA",ES: DAZN LALIGA HD
-http://86459492047320781.nicesjb.xyz:80/play/ja919164/7945667668/320781.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES 08 DAZN LALIGA",ES: DAZN LALIGA 2 HD
-http://86459492047320779.nicesjb.xyz:80/play/ja919164/7945667668/320779.ts
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M+ DEPORTES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title="ES 09 DEPORTES",ES: M+ DEPORTES HD
-http://86459492047268070.nicesjb.xyz:80/play/ja919164/7945667668/268070.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 1 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: M+ DEPORTES 1 HD
-http://86459492047290673.nicesjb.xyz:80/play/ja919164/7945667668/290673.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 2 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: M+ DEPORTES 2 HD
-http://86459492047165460.nicesjb.xyz:80/play/ja919164/7945667668/165460.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 3 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: M+ DEPORTES 3 HD
-http://86459492047277443.nicesjb.xyz:80/play/ja919164/7945667668/277443.ts
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN FORMULA 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES 05 FORMULA",ES: DAZN FORMULA 1 HEVC
-http://86459492047318564.nicesjb.xyz:80/play/ja919164/7945667668/318564.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: M+ DAZN 1 HD
-http://86459492047228385.nicesjb.xyz:80/play/ja919164/7945667668/228385.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: M+ DAZN 2 HD
-http://86459492047228388.nicesjb.xyz:80/play/ja919164/7945667668/228388.ts
-#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES 10 EUROSPORT",ES: EUROSPORT 1 HD
-http://86459492047290349.nicesjb.xyz:80/play/ja919164/7945667668/290349.ts
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES 10 EUROSPORT",ES: EUROSPORT 2 HD
-http://86459492047290352.nicesjb.xyz:80/play/ja919164/7945667668/290352.ts
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="ES: TELEDEPORTE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title=" ES 01 MOVISTAR+",ES: TELEDEPORTE HD
-http://86459492047321433.nicesjb.xyz:80/play/ja919164/7945667668/321433.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title=" ES 01 MOVISTAR+",ES: NAT GEO HD
-http://86459492047339777.nicesjb.xyz:80/play/ja919164/7945667668/339777.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title=" ES 01 MOVISTAR+",ES: NAT GEO WILD HD
-http://86459492047321365.nicesjb.xyz:80/play/ja919164/7945667668/321365.ts
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title=" ES 01 MOVISTAR+",ES: HISTORIA HD
-http://86459492047339761.nicesjb.xyz:80/play/ja919164/7945667668/339761.ts
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNELS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title=" ES 01 MOVISTAR+",ES: DISCOVERY CHANNELS HD
-http://86459492047321211.nicesjb.xyz:80/play/ja919164/7945667668/321211.ts
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX HD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title=" ES 01 MOVISTAR+",ES: DMAX HD
-http://86459492047321226.nicesjb.xyz:80/play/ja919164/7945667668/321226.ts
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title=" ES 01 MOVISTAR+",ES: ODISEA HD
-http://86459492047321389.nicesjb.xyz:80/play/ja919164/7945667668/321389.ts
-#EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title=" ES 01 MOVISTAR+",ES: MEGA HD
-http://86459492047321300.nicesjb.xyz:80/play/ja919164/7945667668/321300.ts
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: AMC BREAK HD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title=" ES 01 MOVISTAR+",ES: AMC BREAK HD
-http://86459492047336284.nicesjb.xyz:80/play/ja919164/7945667668/336284.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title=" ES 01 MOVISTAR+",ES: AMC HD
-http://86459492047321103.nicesjb.xyz:80/play/ja919164/7945667668/321103.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title=" ES 01 MOVISTAR+",ES: AMC CRIME SD
-http://86459492047321101.nicesjb.xyz:80/play/ja919164/7945667668/321101.ts
-#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title=" ES 01 MOVISTAR+",ES: CANAL COCINA HD
-http://86459492047321148.nicesjb.xyz:80/play/ja919164/7945667668/321148.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://miguia.tv/channels/big_68.png" group-title=" ES 01 MOVISTAR+",ES: CANAL DECASA HD
-http://86459492047321153.nicesjb.xyz:80/play/ja919164/7945667668/321153.ts
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DIVINI" group-title=" ES 01 MOVISTAR+",ES: DIVINITY HD
-http://86459492047321222.nicesjb.xyz:80/play/ja919164/7945667668/321222.ts
-#EXTINF:-1 tvg-id="DKISS.TV" tvg-name="ES: DKISS SD" tvg-logo="https://miguia.tv/channels/big_279.png" group-title=" ES 01 MOVISTAR+",ES: DKISS SD
-http://86459492047321224.nicesjb.xyz:80/play/ja919164/7945667668/321224.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TEN HD" tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN" group-title=" ES 01 MOVISTAR+",ES: TEN HD
-http://86459492047321439.nicesjb.xyz:80/play/ja919164/7945667668/321439.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title=" ES 01 MOVISTAR+",ES: TELECINCO SD
+http://86459492047321431.nicesjb.xyz:80/play/ja919164/7945667668/321431.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title=" ES 01 MOVISTAR+",ES: CUATRO FHD
+http://86459492047321196.nicesjb.xyz:80/play/ja919164/7945667668/321196.ts
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title=" ES 01 MOVISTAR+",ES: CUATRO HD
+http://86459492047321197.nicesjb.xyz:80/play/ja919164/7945667668/321197.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title=" ES 01 MOVISTAR+",ES: CUATRO SD
+http://86459492047321198.nicesjb.xyz:80/play/ja919164/7945667668/321198.ts
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title=" ES 01 MOVISTAR+",ES: BABY TV HD
+http://86459492047321121.nicesjb.xyz:80/play/ja919164/7945667668/321121.ts
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="ES: BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title=" ES 01 MOVISTAR+",ES: BABY TV SD
+http://86459492047321122.nicesjb.xyz:80/
