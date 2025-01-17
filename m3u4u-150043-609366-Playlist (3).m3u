@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="10" tvg-id="(no tvg-id)" tvg-name="ES: XTRM ᵁᴴᴰ" tvg-logo="" group-title="españa" tvg-shift="0",ES: XTRM ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840113.ts
+#EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="ES: LASEXTA RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: LASEXTA RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855912.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="ES: ANTENA 3 RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: ANTENA 3 RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855904.ts
+#EXTINF:-1 tvg-id="AMCBreak.es" tvg-name="ES: AMC BREAK ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12097.jpg?43940" group-title="españa",ES: AMC BREAK ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839880.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: AMC CRIME RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: AMC CRIME RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855899.ts
+#EXTINF:-1 tvg-id="AMCCrime.es" tvg-name="ES: AMC CRIME ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11556.jpg?75286" group-title="españa",ES: AMC CRIME ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839879.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: AMC RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: AMC RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855898.ts
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES: AMC ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1114.png?42402" group-title="españa",ES: AMC ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840108.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: AXN MOVIES ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10157.jpg?54671" group-title="españa",ES: AXN MOVIES ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840110.ts
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10157.jpg?20103" group-title="españa",ES: AXN ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840119.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: AXN VOS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10157.jpg?20103" group-title="españa",ES: AXN VOS ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840120.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: BUENVIAJE ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10588.jpg?860" group-title="españa",ES: BUENVIAJE ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839881.ts
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11309.jpg?12850" group-title="españa",ES: CALLE 13 ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: CANAL COCINA RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: CANAL COCINA RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855903.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: CANAL HOLLYWOOD RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: CANAL HOLLYWOOD RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855902.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES: COMEDY CENTRAL ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/648.png?87440" group-title="españa",ES: COMEDY CENTRAL ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840116.ts
+#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="ES: COSMO ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/804.jpg?44061" group-title="españa",ES: COSMO ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DARK RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: DARK RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855901.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DARK ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2996.png?86648" group-title="españa",ES: DARK ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840114.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DECASA RAW ᵃᵐᶻ" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7795_424_1_C00000_0_0_0.png" group-title="españa",ES: DECASA RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855897.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="ES: DISCOVERY CHANNEL ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11250.png?94778" group-title="españa",ES: DISCOVERY CHANNEL ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839883.ts
+#EXTINF:-1 tvg-id="Dmax.es" tvg-name="ES: DMAX ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6563.jpg?22633" group-title="españa",ES: DMAX ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839878.ts
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES: HISTORIA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11257.jpg?9435" group-title="españa",ES: HISTORIA ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839884.ts
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES: HOLLYWOOD ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11310.png?5643" group-title="españa",ES: HOLLYWOOD ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840103.ts
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9391.png?18439" group-title="españa",ES: MOVISTAR ACCION ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840132.ts
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES: MOVISTAR CINE Ñ ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?32181" group-title="españa",ES: MOVISTAR CINE Ñ ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840126.ts
+#EXTINF:-1 tvg-id="MovistarCine.es" tvg-name="ES: MOVISTAR CINE ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12040.png?32181" group-title="españa",ES: MOVISTAR CINE ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840127.ts
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ES: MOVISTAR CLASICOS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10686.png?54408" group-title="españa",ES: MOVISTAR CLASICOS ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840128.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR CLINT EASTWOOD ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?82861" group-title="españa",ES: MOVISTAR CLINT EASTWOOD ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840125.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES: MOVISTAR COMEDIA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8403.png?87490" group-title="españa",ES: MOVISTAR COMEDIA ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840131.ts
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: MOVISTAR DRAMA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10045.png?48296" group-title="españa",ES: MOVISTAR DRAMA ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840130.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR INDIE ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?82861" group-title="españa",ES: MOVISTAR INDIE ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840123.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR ORIGINALES ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10047.png?36568" group-title="españa",ES: MOVISTAR ORIGINALES ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840129.ts
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: NATIONAL GEOGRAPHIC ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3183.jpg?25981" group-title="españa",ES: NATIONAL GEOGRAPHIC ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839886.ts
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6658.png?66329" group-title="españa",ES: NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839885.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: NEOX RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: NEOX RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855911.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: NOVA RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: NOVA RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855910.ts
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11333.jpg?98878" group-title="españa",ES: ODISEA ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839882.ts
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11333.jpg?90026" group-title="españa",ES: ODISEA ᵁᴴᴰ 3840P
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/839887.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: OUT TV RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: OUT TV RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855909.ts
+#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="ES: PARAMOUNT CHANNEL ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11961.jpg?12577" group-title="españa",ES: PARAMOUNT CHANNEL ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840122.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: SOMOS RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: SOMOS RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855908.ts
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8355.png?72491" group-title="españa",ES: SOMOS ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840112.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: STAR CHANNEL (FOX) ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9339.png?86959" group-title="españa",ES: STAR CHANNEL (FOX) ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840121.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: SUNDANCE TV RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: SUNDANCE TV RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855907.ts
+#EXTINF:-1 tvg-id="SundanceTV.es" tvg-name="ES: SUNDANCE TV ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1869.png?10117" group-title="españa",ES: SUNDANCE TV ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840102.ts
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="ES: SYFY ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6611.png?83363" group-title="españa",ES: SYFY ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840106.ts
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="ES: SYFY ᵁᴴᴰ VOS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6611.png?83363" group-title="españa",ES: SYFY ᵁᴴᴰ VOS
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840107.ts
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES: TCM ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11321.png?31911" group-title="españa",ES: TCM ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840104.ts
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES: TCM ᵁᴴᴰ VOS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11321.png?31911" group-title="españa",ES: TCM ᵁᴴᴰ VOS
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: WARNER TV ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9673.jpg?16683" group-title="españa",ES: WARNER TV ᵁᴴᴰ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/840117.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: XTRM RAW ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="españa",ES: XTRM RAW ᵃᵐᶻ
+http://facing41135.cdngold.me:80/live/c6516e8ca0c0/55a0166d19/855906.ts
